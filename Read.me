@@ -1,0 +1,62 @@
+# CamAppServer - Nova Live Streaming Application Backend
+
+This repository contains the backend server for the Nova live streaming application. It handles user authentication, custodial wallets, and blockchain interactions for the in-app economy.
+
+## Table of Contents
+
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Environment Variables](#environment-variables)
+- [Running the Server](#running-the-server)
+- [Running Tests](#running-tests)
+- [Project Structure](#project-structure)
+
+## Getting Started
+
+Follow these instructions to set up and run the project locally for development.
+
+### Prerequisites
+
+- Node.js (v18 or later recommended)
+- npm (Node Package Manager)
+- Access to an Alchemy (or similar) RPC URL for Polygon Amoy Testnet.
+- A private key for your server's administrative wallet (funded with a small amount of Amoy MATIC for gas fees).
+- A Polygonscan API Key for testnet verification (though this is primarily used by the Hardhat project).
+
+### Installation
+
+1.  **Clone this repository** (if you haven't already).
+    ```bash
+    git clone https://github.com/YOUR_USERNAME/CamAppServer.git
+    cd CamAppServer
+    ```
+    *(Note: Since you already have the folder, you can skip `git clone` and just `cd` into your existing `CamAppServer` folder.)*
+
+2.  **Install Node.js dependencies:**
+    ```bash
+    npm install
+    ```
+
+### Environment Variables
+
+This project uses environment variables for sensitive information and configuration.
+
+1.  Create a file named `.env` in the **root** of this project folder (`CamAppServer/.env`).
+2.  Populate it with the following variables, replacing the placeholders with your actual values:
+
+    ```env
+    AMOY_RPC_URL=https://polygon-amoy.g.alchemy.com/v2/YOUR_ALCHEMY_URL_HERE
+    DEPLOYER_PRIVATE_KEY=YOUR_METAMASK_PRIVATE_KEY_WITHOUT_0x_HERE
+    POLYGONSCAN_API_KEY=YOUR_POLYGONSCAN_API_KEY_HERE
+    ```
+    **Important Notes:**
+    *   Ensure there are **no spaces** before or after the `=` sign.
+    *   Your `DEPLOYER_PRIVATE_KEY` (which is used as `ADMIN_PRIVATE_KEY` by the server) should be a 64-character hexadecimal string, **without** the `0x` prefix.
+
+## Running the Server
+
+To start the Express.js backend server:
+
+```bash
+npm start

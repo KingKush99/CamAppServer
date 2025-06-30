@@ -1,17 +1,28 @@
 {
   "name": "camappserver",
   "version": "1.0.0",
+  "description": "Back-end server for the Nova live streaming application.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "Connor",
   "license": "ISC",
-  "description": "",
   "dependencies": {
-    "dotenv": "^16.5.0",
-    "ethers": "^6.14.4",
-    "express": "^5.1.0"
+    "bcryptjs": "^3.0.2",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.1",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "setupFiles": [
+      "./jest.setup.js"
+    ]
   }
 }
