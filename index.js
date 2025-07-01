@@ -2,10 +2,10 @@
 
 const express = require('express');
 const app = express();
-const port = 3000; // The port your server will listen on
+const port = 3000;
 
-// Import routes (renamed from authRoutes to userRoutes)
-const userRoutes = require('./src/routes/user'); // Our updated user routes
+// Import routes (this is the ONLY place userRoutes should be required at this level)
+const userRoutes = require('./src/routes/user'); 
 
 // Middleware to parse JSON request bodies
 app.use(express.json());
@@ -16,7 +16,6 @@ app.get('/', (req, res) => {
 });
 
 // Use user-related authentication and profile routes
-// All routes in userRoutes will be prefixed with /api/users
 app.use('/api/users', userRoutes); 
 
 // Start the server
