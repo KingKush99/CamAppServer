@@ -1,0 +1,500 @@
+2025-08-26 01:49:13 info: Loading user routes... 
+2025-08-26 01:49:13 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-26 01:49:13 info: Contracts (from blockchain.js): 
+2025-08-26 01:49:13 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-26 01:49:13 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-26 01:49:13 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-26 01:49:13 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-26 01:49:13 info: Loaded user routes successfully. 
+2025-08-26 01:49:13 info: Loading nft routes... 
+2025-08-26 01:49:13 info: Loaded nft routes successfully. 
+2025-08-26 01:49:13 info: Starting server... 
+2025-08-26 01:49:13 info: ✅ Server started successfully on http://localhost:9020 
+2025-08-26 01:49:13 info: Pool Event: A client connected successfully! 
+2025-08-26 01:49:13 info: Successfully connected to the PostgreSQL database! 
+2025-08-26 01:49:13 info: Dummy query result (current DB time): 
+2025-08-26 02:07:11 info: Incoming Request: POST /api/users/login 
+2025-08-26 02:07:11 info: Pool Event: A client connected successfully! 
+2025-08-26 02:07:11 info: User logged in: seller@example.com 
+2025-08-26 02:07:11 info: Incoming Request: GET /api/users/profile 
+2025-08-26 02:07:41 info: Incoming Request: POST /api/nfts/admin/mint-nft 
+2025-08-26 02:07:41 info: Pool Event: A client connected successfully! 
+2025-08-26 02:07:41 info: Admin access GRANTED for user ID: 7 
+2025-08-26 02:09:44 info: Incoming Request: POST /api/nfts/admin/mint-nft 
+2025-08-26 02:09:44 info: Pool Event: A client connected successfully! 
+2025-08-26 02:09:44 info: Admin access GRANTED for user ID: 7 
+2025-08-26 02:10:36 info: Incoming Request: POST /api/users/login 
+2025-08-26 02:10:36 info: Pool Event: A client connected successfully! 
+2025-08-26 02:10:36 info: User logged in: seller@example.com 
+2025-08-26 02:10:36 info: Incoming Request: GET /api/users/profile 
+2025-08-26 02:10:49 info: Incoming Request: POST /api/nfts/admin/mint-nft 
+2025-08-26 02:10:49 info: Pool Event: A client connected successfully! 
+2025-08-26 02:10:49 info: Admin access GRANTED for user ID: 7 
+2025-08-26 02:28:40 info: Incoming Request: POST /api/users/login 
+2025-08-26 02:28:40 info: Pool Event: A client connected successfully! 
+2025-08-26 02:28:40 info: User logged in: seller@example.com 
+2025-08-26 02:28:40 info: Incoming Request: GET /api/users/profile 
+2025-08-26 02:28:58 info: Incoming Request: POST /api/nfts/admin/mint-nft 
+2025-08-26 02:28:58 info: Pool Event: A client connected successfully! 
+2025-08-26 02:28:58 info: Admin access GRANTED for user ID: 7 
+2025-08-26 02:55:39 info: Loading user routes... 
+2025-08-26 02:55:39 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-26 02:55:39 info: Contracts (from blockchain.js): 
+2025-08-26 02:55:39 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-26 02:55:39 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-26 02:55:39 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-26 02:55:39 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-26 02:55:39 info: Loaded user routes successfully. 
+2025-08-26 02:55:39 info: Loading nft routes... 
+2025-08-26 02:55:39 info: Loaded nft routes successfully. 
+2025-08-26 02:55:39 info: Starting server... 
+2025-08-26 02:55:39 info: ✅ Server started successfully on http://localhost:9020 
+2025-08-26 02:55:39 info: Pool Event: A client connected successfully! 
+2025-08-26 02:55:39 info: Successfully connected to the PostgreSQL database! 
+2025-08-26 02:55:39 info: Dummy query result (current DB time): 
+2025-08-26 02:56:56 info: Incoming Request: POST /api/users/login 
+2025-08-26 02:56:56 info: Pool Event: A client connected successfully! 
+2025-08-26 02:56:56 info: User logged in: seller@example.com 
+2025-08-26 02:56:56 info: Incoming Request: GET /api/users/profile 
+2025-08-26 02:57:48 info: Incoming Request: POST /api/nfts/admin/mint-nft 
+2025-08-26 02:57:48 info: Pool Event: A client connected successfully! 
+2025-08-26 02:57:48 info: Admin access GRANTED for user ID: 7 
+2025-08-26 02:57:48 info: Admin minting NFT for Badger to address 0x929b648D44753c1Ff80F87Bd73AB1B579E920FbC... 
+2025-08-26 02:58:03 info: Incoming Request: GET /api/users/profile 
+2025-08-26 02:58:03 info: Pool Event: A client connected successfully! 
+2025-08-26 02:58:03 info: Incoming Request: GET /api/users/profile 
+2025-08-26 02:58:19 info: Incoming Request: POST /api/nfts/admin/mint-nft 
+2025-08-26 02:58:19 info: Pool Event: A client connected successfully! 
+2025-08-26 02:58:19 info: Admin access GRANTED for user ID: 7 
+2025-08-26 02:58:19 info: Admin minting NFT for YungFalc to address 0x929b648D44753c1Ff80F87Bd73AB1B579E920FbC... 
+2025-08-26 03:09:51 info: Incoming Request: POST /api/users/login 
+2025-08-26 03:09:51 info: Pool Event: A client connected successfully! 
+2025-08-26 03:09:51 info: User logged in: seller@example.com 
+2025-08-26 03:09:51 info: Incoming Request: GET /api/users/profile 
+2025-08-26 03:10:03 info: Incoming Request: POST /api/nfts/admin/mint-nft 
+2025-08-26 03:10:03 info: Pool Event: A client connected successfully! 
+2025-08-26 03:10:03 info: Admin access GRANTED for user ID: 7 
+2025-08-26 03:10:03 info: Admin minting NFT for YungFalc to address 0x929b648D44753c1Ff80F87Bd73AB1B579E920FbC... 
+2025-08-26 03:15:18 info: Incoming Request: POST /api/users/login 
+2025-08-26 03:15:18 info: Pool Event: A client connected successfully! 
+2025-08-26 03:15:18 info: User logged in: seller@example.com 
+2025-08-26 03:15:18 info: Incoming Request: GET /api/users/profile 
+2025-08-26 03:15:29 info: Incoming Request: POST /api/nfts/admin/mint-nft 
+2025-08-26 03:15:29 info: Pool Event: A client connected successfully! 
+2025-08-26 03:15:29 info: Admin access GRANTED for user ID: 7 
+2025-08-26 03:15:29 info: Admin minting NFT for Yong to address 0x929b648D44753c1Ff80F87Bd73AB1B579E920FbC... 
+2025-08-26 03:15:57 info: Loading user routes... 
+2025-08-26 03:15:57 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-26 03:15:57 info: Contracts (from blockchain.js): 
+2025-08-26 03:15:57 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-26 03:15:57 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-26 03:15:57 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-26 03:15:57 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-26 03:15:57 info: Loaded user routes successfully. 
+2025-08-26 03:15:57 info: Loading nft routes... 
+2025-08-26 03:15:57 info: Loaded nft routes successfully. 
+2025-08-26 03:15:57 info: Starting server... 
+2025-08-26 03:15:57 info: ✅ Server started successfully on http://localhost:9020 
+2025-08-26 03:15:57 info: Pool Event: A client connected successfully! 
+2025-08-26 03:15:57 info: Successfully connected to the PostgreSQL database! 
+2025-08-26 03:15:57 info: Dummy query result (current DB time): 
+2025-08-26 03:16:15 info: Incoming Request: POST /api/users/login 
+2025-08-26 03:16:15 info: Pool Event: A client connected successfully! 
+2025-08-26 03:16:15 info: User logged in: seller@example.com 
+2025-08-26 03:16:15 info: Incoming Request: GET /api/users/profile 
+2025-08-26 03:16:26 info: Incoming Request: POST /api/nfts/admin/mint-nft 
+2025-08-26 03:16:26 info: Pool Event: A client connected successfully! 
+2025-08-26 03:16:26 info: Admin access GRANTED for user ID: 7 
+2025-08-26 03:22:03 info: Incoming Request: POST /api/nfts/admin/mint-nft 
+2025-08-26 03:22:03 info: Pool Event: A client connected successfully! 
+2025-08-26 03:22:03 info: Admin access GRANTED for user ID: 7 
+2025-08-26 03:23:02 info: Incoming Request: POST /api/users/register 
+2025-08-26 03:23:02 info: Pool Event: A client connected successfully! 
+2025-08-26 03:23:02 info: Created custodial wallet: 0xda1bF4404E46B70ba63D02a92BfD364B1B2534D2 
+2025-08-26 03:23:02 info: User created with ID: 57, Email: newseller@example.com 
+2025-08-26 03:23:18 info: Incoming Request: POST /api/users/login 
+2025-08-26 03:23:18 info: Pool Event: A client connected successfully! 
+2025-08-26 03:23:18 info: User logged in: newseller@example.com 
+2025-08-26 03:23:18 info: Incoming Request: GET /api/users/profile 
+2025-08-26 03:23:19 info: Incoming Request: GET /api/nfts/auctions?status=active 
+2025-08-26 03:23:49 info: Incoming Request: POST /api/users/login 
+2025-08-26 03:23:49 info: Pool Event: A client connected successfully! 
+2025-08-26 03:23:49 info: User logged in: seller@example.com 
+2025-08-26 03:23:49 info: Incoming Request: GET /api/users/profile 
+2025-08-26 03:24:17 info: Incoming Request: POST /api/nfts/admin/mint-nft 
+2025-08-26 03:24:18 info: Pool Event: A client connected successfully! 
+2025-08-26 03:24:18 info: Admin access GRANTED for user ID: 7 
+2025-08-26 03:24:18 warn: User 0xda1bF4404E46B70ba63D02a92BfD364B1B2534D2 has insufficient gas. Funding... 
+2025-08-26 03:24:50 info: Incoming Request: POST /api/nfts/admin/mint-nft 
+2025-08-26 03:24:50 info: Pool Event: A client connected successfully! 
+2025-08-26 03:24:50 info: Admin access GRANTED for user ID: 7 
+2025-08-26 03:24:51 info: Minting NFT for YungFalc from their wallet 0xda1bF4404E46B70ba63D02a92BfD364B1B2534D2... 
+2025-08-26 03:25:07 info: Incoming Request: POST /api/users/login 
+2025-08-26 03:25:07 info: Pool Event: A client connected successfully! 
+2025-08-26 03:25:07 info: User logged in: seller@example.com 
+2025-08-26 03:25:07 info: Incoming Request: GET /api/users/profile 
+2025-08-26 03:25:14 info: Incoming Request: POST /api/nfts/admin/mint-nft 
+2025-08-26 03:25:14 info: Admin access GRANTED for user ID: 7 
+2025-08-26 03:25:14 info: Minting NFT for fsgege from their wallet 0xda1bF4404E46B70ba63D02a92BfD364B1B2534D2... 
+2025-08-26 03:25:26 info: Incoming Request: GET /api/users/profile 
+2025-08-26 03:25:26 info: Pool Event: A client connected successfully! 
+2025-08-26 03:25:26 info: Incoming Request: GET /api/users/profile 
+2025-08-26 03:25:39 info: Incoming Request: POST /api/nfts/admin/mint-nft 
+2025-08-26 03:25:39 info: Pool Event: A client connected successfully! 
+2025-08-26 03:25:39 info: Admin access GRANTED for user ID: 7 
+2025-08-26 03:25:40 info: Minting NFT for sdgsd from their wallet 0xda1bF4404E46B70ba63D02a92BfD364B1B2534D2... 
+2025-08-26 03:33:36 info: Loading user routes... 
+2025-08-26 03:33:37 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-26 03:33:37 info: Contracts (from blockchain.js): 
+2025-08-26 03:33:37 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-26 03:33:37 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-26 03:33:37 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-26 03:33:37 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-26 03:33:37 info: Loaded user routes successfully. 
+2025-08-26 03:33:37 info: Loading nft routes... 
+2025-08-26 03:33:37 info: Loaded nft routes successfully. 
+2025-08-26 03:33:37 info: Starting server... 
+2025-08-26 03:33:37 info: ✅ Server started successfully on http://localhost:9020 
+2025-08-26 03:33:37 info: Pool Event: A client connected successfully! 
+2025-08-26 03:33:37 info: Successfully connected to the PostgreSQL database! 
+2025-08-26 03:33:37 info: Dummy query result (current DB time): 
+2025-08-26 03:33:43 info: Incoming Request: POST /api/nfts/admin/mint-nft 
+2025-08-26 03:33:43 info: Admin access GRANTED for user ID: 7 
+2025-08-26 03:33:44 info: Minting NFT for sdgsd from their wallet 0xda1bF4404E46B70ba63D02a92BfD364B1B2534D2... 
+2025-08-26 03:34:05 info: Incoming Request: POST /api/users/login 
+2025-08-26 03:34:05 info: Pool Event: A client connected successfully! 
+2025-08-26 03:34:05 info: User logged in: seller@example.com 
+2025-08-26 03:34:05 info: Incoming Request: GET /api/users/profile 
+2025-08-26 03:34:24 info: Incoming Request: POST /api/nfts/admin/mint-nft 
+2025-08-26 03:34:24 info: Pool Event: A client connected successfully! 
+2025-08-26 03:34:24 info: Admin access GRANTED for user ID: 7 
+2025-08-26 03:34:24 info: Minting NFT for sggs from their wallet 0xda1bF4404E46B70ba63D02a92BfD364B1B2534D2... 
+2025-08-26 14:34:17 info: Loading user routes... 
+2025-08-26 14:34:17 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-26 14:34:17 info: Contracts (from blockchain.js): 
+2025-08-26 14:34:17 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-26 14:34:17 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-26 14:34:17 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-26 14:34:17 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-26 14:34:17 info: Loaded user routes successfully. 
+2025-08-26 14:34:17 info: Loading nft routes... 
+2025-08-26 14:34:17 info: Loaded nft routes successfully. 
+2025-08-26 14:34:17 info: Starting server... 
+2025-08-26 14:34:17 info: ✅ Server started successfully on http://localhost:9020 
+2025-08-26 14:34:18 info: Pool Event: A client connected successfully! 
+2025-08-26 14:34:18 info: Successfully connected to the PostgreSQL database! 
+2025-08-26 14:34:18 info: Dummy query result (current DB time): 
+2025-08-26 14:34:47 info: Incoming Request: POST /api/users/login 
+2025-08-26 14:34:47 info: Pool Event: A client connected successfully! 
+2025-08-26 14:34:47 info: User logged in: seller@example.com 
+2025-08-26 14:34:47 info: Incoming Request: GET /api/users/profile 
+2025-08-26 14:35:03 info: Incoming Request: POST /api/nfts/admin/mint-nft 
+2025-08-26 14:35:03 info: Pool Event: A client connected successfully! 
+2025-08-26 14:35:03 info: Admin access GRANTED for user ID: 7 
+2025-08-26 14:35:20 info: Incoming Request: POST /api/nfts/admin/mint-nft 
+2025-08-26 14:35:20 info: Pool Event: A client connected successfully! 
+2025-08-26 14:35:20 info: Admin access GRANTED for user ID: 7 
+2025-08-26 14:35:21 info: Minting NFT for gwawg from their wallet 0xda1bF4404E46B70ba63D02a92BfD364B1B2534D2... 
+2025-08-26 14:35:22 warn: Provider's suggested tip is too low. Using configured minimum of 30 Gwei. 
+2025-08-26 14:35:23 info: Mint successful for user 0xda1bF4404E46B70ba63D02a92BfD364B1B2534D2. Tx hash: 0x59fef1a5cb62f5518c13ccdad4d47863db28b42565c5de772cd15fb5c8ab70a7, TokenId: 37 
+2025-08-26 14:35:23 info: NFT added to DB: Token ID 37, Owner ID 57. 
+2025-08-26 14:38:36 info: Incoming Request: POST /api/nfts/admin/mint-tokens 
+2025-08-26 14:38:36 info: Pool Event: A client connected successfully! 
+2025-08-26 14:38:36 info: Admin access GRANTED for user ID: 7 
+2025-08-26 14:38:36 info: Admin TRANSFERRING .1 NOVA to 0xA268ac3E2b7265EE870F15181b75470Ea8CBd4b0... 
+2025-08-26 14:38:37 warn: Provider's suggested tip is too low. Using configured minimum of 30 Gwei. 
+2025-08-26 14:38:42 info: Transfer successful. Tx hash: 0xfc657a399b2fd2418cc16051fd356a107f1cdf116b24ebdfa6bb72d947ad2663 
+2025-08-26 14:42:59 info: Incoming Request: POST /api/users/login 
+2025-08-26 14:42:59 info: Pool Event: A client connected successfully! 
+2025-08-26 14:42:59 info: User logged in: newseller@example.com 
+2025-08-26 14:42:59 info: Incoming Request: GET /api/users/profile 
+2025-08-26 14:42:59 info: Incoming Request: GET /api/nfts/auctions?status=active 
+2025-08-26 14:43:14 info: Incoming Request: GET /api/users/my-nfts 
+2025-08-26 14:43:14 info: Pool Event: A client connected successfully! 
+2025-08-26 14:43:14 info: Incoming Request: GET /api/users/my-nfts 
+2025-08-26 14:45:36 info: Incoming Request: GET /api/users/my-nfts 
+2025-08-26 14:45:36 info: Incoming Request: GET /api/users/profile 
+2025-08-26 14:45:36 info: Pool Event: A client connected successfully! 
+2025-08-26 14:45:36 info: Incoming Request: GET /api/users/my-nfts 
+2025-08-26 14:45:36 info: Pool Event: A client connected successfully! 
+2025-08-26 14:45:36 info: Incoming Request: GET /api/users/profile 
+2025-08-26 14:45:42 info: Incoming Request: GET /api/nfts/auctions/37 
+2025-08-26 14:45:42 info: Incoming Request: GET /api/nfts/auctions/37 
+2025-08-26 14:49:42 info: Loading user routes... 
+2025-08-26 14:49:42 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-26 14:49:42 info: Contracts (from blockchain.js): 
+2025-08-26 14:49:42 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-26 14:49:42 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-26 14:49:42 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-26 14:49:42 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-26 14:49:42 info: Loaded user routes successfully. 
+2025-08-26 14:49:42 info: Loading nft routes... 
+2025-08-26 14:49:42 info: Loaded nft routes successfully. 
+2025-08-26 14:49:42 info: Starting server... 
+2025-08-26 14:49:42 info: ✅ Server started successfully on http://localhost:9020 
+2025-08-26 14:49:42 info: Pool Event: A client connected successfully! 
+2025-08-26 14:49:42 info: Successfully connected to the PostgreSQL database! 
+2025-08-26 14:49:42 info: Dummy query result (current DB time): 
+2025-08-26 14:49:46 info: Incoming Request: GET /api/nfts/auctions/37 
+2025-08-26 14:49:46 info: Incoming Request: GET /api/users/profile 
+2025-08-26 14:49:46 info: Incoming Request: GET /api/nfts/auctions/37 
+2025-08-26 14:49:46 info: Pool Event: A client connected successfully! 
+2025-08-26 14:49:46 info: Incoming Request: GET /api/users/profile 
+2025-08-26 14:49:46 info: Incoming Request: GET /api/nfts/auctions/37 
+2025-08-26 14:52:56 info: Incoming Request: GET /api/nfts/auctions/37 
+2025-08-26 14:52:56 info: Incoming Request: GET /api/users/profile 
+2025-08-26 14:52:56 info: Pool Event: A client connected successfully! 
+2025-08-26 14:52:56 info: Incoming Request: GET /api/nfts/auctions/37 
+2025-08-26 14:52:56 info: Pool Event: A client connected successfully! 
+2025-08-26 14:52:56 info: Incoming Request: GET /api/users/profile 
+2025-08-26 14:52:56 info: Incoming Request: GET /api/nfts/auctions/37 
+2025-08-26 14:53:03 info: Incoming Request: GET /api/users/my-nfts 
+2025-08-26 14:53:03 info: Incoming Request: GET /api/users/my-nfts 
+2025-08-26 14:53:14 info: Incoming Request: POST /api/nfts/approve-listing 
+2025-08-26 14:53:14 info: Pool Event: A client connected successfully! 
+2025-08-26 14:53:15 warn: Provider's suggested tip is too low. Using configured minimum of 30 Gwei. 
+2025-08-26 14:53:20 info: Incoming Request: POST /api/nfts/list-item 
+2025-08-26 14:53:21 warn: Provider's suggested tip is too low. Using configured minimum of 30 Gwei. 
+2025-08-26 14:53:26 info: Initial listing created for NFT 37. 
+2025-08-26 14:53:27 info: Listing 12 updated with auction details. 
+2025-08-26 14:55:30 info: Incoming Request: POST /api/users/login 
+2025-08-26 14:55:30 info: Pool Event: A client connected successfully! 
+2025-08-26 14:55:41 info: Incoming Request: POST /api/users/login 
+2025-08-26 14:55:41 info: Pool Event: A client connected successfully! 
+2025-08-26 14:55:41 info: User logged in: final_buyer11@example.com 
+2025-08-26 14:55:41 info: Incoming Request: GET /api/users/profile 
+2025-08-26 14:55:43 info: Incoming Request: GET /api/nfts/auctions?status=active 
+2025-08-26 14:55:56 info: Incoming Request: GET /api/nfts/auctions/12 
+2025-08-26 14:55:56 info: Incoming Request: GET /api/users/profile 
+2025-08-26 14:55:56 info: Pool Event: A client connected successfully! 
+2025-08-26 14:55:56 info: Incoming Request: GET /api/nfts/auctions/12 
+2025-08-26 14:55:56 info: Pool Event: A client connected successfully! 
+2025-08-26 14:55:56 info: Incoming Request: GET /api/users/profile 
+2025-08-26 14:55:56 info: Incoming Request: GET /api/nfts/auctions/12 
+2025-08-26 14:55:56 info: Incoming Request: GET /api/users/profile 
+2025-08-26 14:56:00 info: Incoming Request: GET /api/users/profile 
+2025-08-26 14:56:00 info: Incoming Request: GET /api/users/profile 
+2025-08-26 14:56:00 info: Incoming Request: GET /api/nfts/auctions?status=active 
+2025-08-26 15:17:47 info: Loading user routes... 
+2025-08-26 15:17:47 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-26 15:17:47 info: Contracts (from blockchain.js): 
+2025-08-26 15:17:47 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-26 15:17:47 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-26 15:17:47 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-26 15:17:47 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-26 15:17:47 info: Loaded user routes successfully. 
+2025-08-26 15:17:47 info: Loading nft routes... 
+2025-08-26 15:17:48 info: Loaded nft routes successfully. 
+2025-08-26 15:17:48 info: Starting server... 
+2025-08-26 15:17:48 info: ✅ Server started successfully on http://localhost:9020 
+2025-08-26 15:17:48 info: Pool Event: A client connected successfully! 
+2025-08-26 15:17:48 info: Successfully connected to the PostgreSQL database! 
+2025-08-26 15:17:48 info: Dummy query result (current DB time): 
+2025-08-26 15:20:29 info: Incoming Request: POST /api/users/login 
+2025-08-26 15:20:29 info: Pool Event: A client connected successfully! 
+2025-08-26 15:20:29 info: User logged in: newseller@example.com 
+2025-08-26 15:20:29 info: Incoming Request: GET /api/users/profile 
+2025-08-26 15:20:30 info: Incoming Request: GET /api/nfts/auctions?status=active 
+2025-08-26 15:20:32 info: Incoming Request: GET /api/users/my-nfts 
+2025-08-26 15:20:32 info: Incoming Request: GET /api/users/my-nfts 
+2025-08-26 15:20:57 info: Incoming Request: POST /api/nfts/approve-listing 
+2025-08-26 15:20:57 info: Pool Event: A client connected successfully! 
+2025-08-26 15:20:58 warn: Provider's suggested tip is too low. Using configured minimum of 30 Gwei. 
+2025-08-26 15:21:07 error: Error in /approve-listing endpoint: transaction failed [ See: https://links.ethers.org/v5-errors-CALL_EXCEPTION ] (transactionHash="0x033135f31d2addbb5cbbb5b444339094defcbd64dbb6665ba04799b6469a7ff7", transaction={"type":2,"chainId":80002,"nonce":3,"maxPriorityFeePerGas":{"type":"BigNumber","hex":"0x06fc23ac00"},"maxFeePerGas":{"type":"BigNumber","hex":"0x06fc23ac7e"},"gasPrice":null,"gasLimit":{"type":"BigNumber","hex":"0x0249f0"},"to":"0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF","value":{"type":"BigNumber","hex":"0x00"},"data":"0x095ea7b3000000000000000000000000f471af2aff654a07cd9f55b6cfa22dd019fbafef0000000000000000000000000000000000000000000000000000000000000025","accessList":[],"hash":"0x033135f31d2addbb5cbbb5b444339094defcbd64dbb6665ba04799b6469a7ff7","v":0,"r":"0xefeba05a08d7db20b5ca96704a01546edb8f1705e304a775cb32cbfee7650c29","s":"0x6dfbc0a7ccfd51cc6e802b18ec81146cc1bed3d28a40c410df1c7b04692aea79","from":"0xda1bF4404E46B70ba63D02a92BfD364B1B2534D2","confirmations":0}, receipt={"to":"0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF","from":"0xda1bF4404E46B70ba63D02a92BfD364B1B2534D2","contractAddress":null,"transactionIndex":0,"gasUsed":{"type":"BigNumber","hex":"0x7af3"},"logsBloom":"0x00000000080000000000000000000000000000020000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000000080000000000000000000000800000000000000000000100000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000000000000000000000000000000000000001000000000000200000000000000000000000000000000000000000000000000000000000004000000000000000000001000000000000000000010000000000100000000000000000000000000000100000000000000000000000000000000000000000100000","blockHash":"0x3702e908d1f45bf2a6d0e387f265509da0f2afce06ec79deadeb0631d557c4a7","transactionHash":"0x033135f31d2addbb5cbbb5b444339094defcbd64dbb6665ba04799b6469a7ff7","logs":[{"transactionIndex":0,"blockNumber":25642196,"transactionHash":"0x033135f31d2addbb5cbbb5b444339094defcbd64dbb6665ba04799b6469a7ff7","address":"0x0000000000000000000000000000000000001010","topics":["0x4dfe1bbbcf077ddc3e01291eea2d5c70c2b422b415d95645b9adcfd678cb1d63","0x0000000000000000000000000000000000000000000000000000000000001010","0x000000000000000000000000da1bf4404e46b70ba63d02a92bfd364b1b2534d2","0x0000000000000000000000006ab3d36c46ecfb9b9c0bd51cb1c3da5a2c81cea6"],"data":"0x00000000000000000000000000000000000000000000000000035aca55d444000000000000000000000000000000000000000000000000000135f361fc42dfc50000000000000000000000000000000000000000000008b44d148ce2ff04431b00000000000000000000000000000000000000000000000001329897a66e9bc50000000000000000000000000000000000000000000008b44d17e7ad54d8871b","logIndex":0,"blockHash":"0x3702e908d1f45bf2a6d0e387f265509da0f2afce06ec79deadeb0631d557c4a7"}],"blockNumber":25642196,"confirmations":1,"cumulativeGasUsed":{"type":"BigNumber","hex":"0x7af3"},"effectiveGasPrice":{"type":"BigNumber","hex":"0x06fc23ac3f"},"status":0,"type":2,"byzantium":true}, code=CALL_EXCEPTION, version=providers/5.8.0) 
+Error: transaction failed [ See: https://links.ethers.org/v5-errors-CALL_EXCEPTION ] (transactionHash="0x033135f31d2addbb5cbbb5b444339094defcbd64dbb6665ba04799b6469a7ff7", transaction={"type":2,"chainId":80002,"nonce":3,"maxPriorityFeePerGas":{"type":"BigNumber","hex":"0x06fc23ac00"},"maxFeePerGas":{"type":"BigNumber","hex":"0x06fc23ac7e"},"gasPrice":null,"gasLimit":{"type":"BigNumber","hex":"0x0249f0"},"to":"0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF","value":{"type":"BigNumber","hex":"0x00"},"data":"0x095ea7b3000000000000000000000000f471af2aff654a07cd9f55b6cfa22dd019fbafef0000000000000000000000000000000000000000000000000000000000000025","accessList":[],"hash":"0x033135f31d2addbb5cbbb5b444339094defcbd64dbb6665ba04799b6469a7ff7","v":0,"r":"0xefeba05a08d7db20b5ca96704a01546edb8f1705e304a775cb32cbfee7650c29","s":"0x6dfbc0a7ccfd51cc6e802b18ec81146cc1bed3d28a40c410df1c7b04692aea79","from":"0xda1bF4404E46B70ba63D02a92BfD364B1B2534D2","confirmations":0}, receipt={"to":"0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF","from":"0xda1bF4404E46B70ba63D02a92BfD364B1B2534D2","contractAddress":null,"transactionIndex":0,"gasUsed":{"type":"BigNumber","hex":"0x7af3"},"logsBloom":"0x00000000080000000000000000000000000000020000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000000080000000000000000000000800000000000000000000100000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000000000000000000000000000000000000001000000000000200000000000000000000000000000000000000000000000000000000000004000000000000000000001000000000000000000010000000000100000000000000000000000000000100000000000000000000000000000000000000000100000","blockHash":"0x3702e908d1f45bf2a6d0e387f265509da0f2afce06ec79deadeb0631d557c4a7","transactionHash":"0x033135f31d2addbb5cbbb5b444339094defcbd64dbb6665ba04799b6469a7ff7","logs":[{"transactionIndex":0,"blockNumber":25642196,"transactionHash":"0x033135f31d2addbb5cbbb5b444339094defcbd64dbb6665ba04799b6469a7ff7","address":"0x0000000000000000000000000000000000001010","topics":["0x4dfe1bbbcf077ddc3e01291eea2d5c70c2b422b415d95645b9adcfd678cb1d63","0x0000000000000000000000000000000000000000000000000000000000001010","0x000000000000000000000000da1bf4404e46b70ba63d02a92bfd364b1b2534d2","0x0000000000000000000000006ab3d36c46ecfb9b9c0bd51cb1c3da5a2c81cea6"],"data":"0x00000000000000000000000000000000000000000000000000035aca55d444000000000000000000000000000000000000000000000000000135f361fc42dfc50000000000000000000000000000000000000000000008b44d148ce2ff04431b00000000000000000000000000000000000000000000000001329897a66e9bc50000000000000000000000000000000000000000000008b44d17e7ad54d8871b","logIndex":0,"blockHash":"0x3702e908d1f45bf2a6d0e387f265509da0f2afce06ec79deadeb0631d557c4a7"}],"blockNumber":25642196,"confirmations":1,"cumulativeGasUsed":{"type":"BigNumber","hex":"0x7af3"},"effectiveGasPrice":{"type":"BigNumber","hex":"0x06fc23ac3f"},"status":0,"type":2,"byzantium":true}, code=CALL_EXCEPTION, version=providers/5.8.0)
+    at Logger.makeError (M:\Desktop\CamAppServer\node_modules\@ethersproject\logger\lib\index.js:238:21)
+    at Logger.throwError (M:\Desktop\CamAppServer\node_modules\@ethersproject\logger\lib\index.js:247:20)
+    at JsonRpcProvider.<anonymous> (M:\Desktop\CamAppServer\node_modules\@ethersproject\providers\lib\base-provider.js:1693:36)
+    at step (M:\Desktop\CamAppServer\node_modules\@ethersproject\providers\lib\base-provider.js:48:23)
+    at Object.next (M:\Desktop\CamAppServer\node_modules\@ethersproject\providers\lib\base-provider.js:29:53)
+    at fulfilled (M:\Desktop\CamAppServer\node_modules\@ethersproject\providers\lib\base-provider.js:20:58)
+2025-08-26 15:21:18 info: Incoming Request: GET /api/users/profile 
+2025-08-26 15:21:18 info: Pool Event: A client connected successfully! 
+2025-08-26 15:21:18 info: Incoming Request: GET /api/users/profile 
+2025-08-26 15:21:18 info: Incoming Request: GET /api/users/my-nfts 
+2025-08-26 15:21:18 info: Incoming Request: GET /api/users/my-nfts 
+2025-08-26 15:21:23 info: Incoming Request: POST /api/nfts/approve-listing 
+2025-08-26 15:21:24 warn: Provider's suggested tip is too low. Using configured minimum of 30 Gwei. 
+2025-08-26 15:21:34 error: Error in /approve-listing endpoint: transaction failed [ See: https://links.ethers.org/v5-errors-CALL_EXCEPTION ] (transactionHash="0x98d46cba38b3b8d2eca66c1f0df3bf7aea489f17325089b9c21b649835741973", transaction={"type":2,"chainId":80002,"nonce":4,"maxPriorityFeePerGas":{"type":"BigNumber","hex":"0x06fc23ac00"},"maxFeePerGas":{"type":"BigNumber","hex":"0x06fc23ac7e"},"gasPrice":null,"gasLimit":{"type":"BigNumber","hex":"0x0249f0"},"to":"0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF","value":{"type":"BigNumber","hex":"0x00"},"data":"0x095ea7b3000000000000000000000000f471af2aff654a07cd9f55b6cfa22dd019fbafef0000000000000000000000000000000000000000000000000000000000000025","accessList":[],"hash":"0x98d46cba38b3b8d2eca66c1f0df3bf7aea489f17325089b9c21b649835741973","v":1,"r":"0x50dd2c052a379dde8ea235a09f3a115d15253d2c4c16d861576bc1bf1616be12","s":"0x3ee2dceb8043b11bb1f7f5cc76a430dbcb4bb6472e90a90629618a227ca2cd85","from":"0xda1bF4404E46B70ba63D02a92BfD364B1B2534D2","confirmations":0}, receipt={"to":"0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF","from":"0xda1bF4404E46B70ba63D02a92BfD364B1B2534D2","contractAddress":null,"transactionIndex":0,"gasUsed":{"type":"BigNumber","hex":"0x7af3"},"logsBloom":"0x00000000080000000000000000000000000000020000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000000080000000000000000000000800000000000000000000100000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000000000000000000000000000000000000001000000000000200000000000000000000000000000000000000000000000000000000000004000000000000000000001000000000000000000010000000000100000000000000000000000000000100000000000000000000000000000000000000000100000","blockHash":"0xbab2ce95f7deacda562d5485bd11dc7f43c8e258e0046d994e25b8e99fc74074","transactionHash":"0x98d46cba38b3b8d2eca66c1f0df3bf7aea489f17325089b9c21b649835741973","logs":[{"transactionIndex":0,"blockNumber":25642203,"transactionHash":"0x98d46cba38b3b8d2eca66c1f0df3bf7aea489f17325089b9c21b649835741973","address":"0x0000000000000000000000000000000000001010","topics":["0x4dfe1bbbcf077ddc3e01291eea2d5c70c2b422b415d95645b9adcfd678cb1d63","0x0000000000000000000000000000000000000000000000000000000000001010","0x000000000000000000000000da1bf4404e46b70ba63d02a92bfd364b1b2534d2","0x0000000000000000000000006ab3d36c46ecfb9b9c0bd51cb1c3da5a2c81cea6"],"data":"0x00000000000000000000000000000000000000000000000000035aca55d4440000000000000000000000000000000000000000000000000001329897a65059f80000000000000000000000000000000000000000000008b44deaf463916dd3c6000000000000000000000000000000000000000000000000012f3dcd507c15f80000000000000000000000000000000000000000000008b44dee4f2de74217c6","logIndex":0,"blockHash":"0xbab2ce95f7deacda562d5485bd11dc7f43c8e258e0046d994e25b8e99fc74074"}],"blockNumber":25642203,"confirmations":1,"cumulativeGasUsed":{"type":"BigNumber","hex":"0x7af3"},"effectiveGasPrice":{"type":"BigNumber","hex":"0x06fc23ac3f"},"status":0,"type":2,"byzantium":true}, code=CALL_EXCEPTION, version=providers/5.8.0) 
+Error: transaction failed [ See: https://links.ethers.org/v5-errors-CALL_EXCEPTION ] (transactionHash="0x98d46cba38b3b8d2eca66c1f0df3bf7aea489f17325089b9c21b649835741973", transaction={"type":2,"chainId":80002,"nonce":4,"maxPriorityFeePerGas":{"type":"BigNumber","hex":"0x06fc23ac00"},"maxFeePerGas":{"type":"BigNumber","hex":"0x06fc23ac7e"},"gasPrice":null,"gasLimit":{"type":"BigNumber","hex":"0x0249f0"},"to":"0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF","value":{"type":"BigNumber","hex":"0x00"},"data":"0x095ea7b3000000000000000000000000f471af2aff654a07cd9f55b6cfa22dd019fbafef0000000000000000000000000000000000000000000000000000000000000025","accessList":[],"hash":"0x98d46cba38b3b8d2eca66c1f0df3bf7aea489f17325089b9c21b649835741973","v":1,"r":"0x50dd2c052a379dde8ea235a09f3a115d15253d2c4c16d861576bc1bf1616be12","s":"0x3ee2dceb8043b11bb1f7f5cc76a430dbcb4bb6472e90a90629618a227ca2cd85","from":"0xda1bF4404E46B70ba63D02a92BfD364B1B2534D2","confirmations":0}, receipt={"to":"0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF","from":"0xda1bF4404E46B70ba63D02a92BfD364B1B2534D2","contractAddress":null,"transactionIndex":0,"gasUsed":{"type":"BigNumber","hex":"0x7af3"},"logsBloom":"0x00000000080000000000000000000000000000020000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000000080000000000000000000000800000000000000000000100000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000000000000000000000000000000000000001000000000000200000000000000000000000000000000000000000000000000000000000004000000000000000000001000000000000000000010000000000100000000000000000000000000000100000000000000000000000000000000000000000100000","blockHash":"0xbab2ce95f7deacda562d5485bd11dc7f43c8e258e0046d994e25b8e99fc74074","transactionHash":"0x98d46cba38b3b8d2eca66c1f0df3bf7aea489f17325089b9c21b649835741973","logs":[{"transactionIndex":0,"blockNumber":25642203,"transactionHash":"0x98d46cba38b3b8d2eca66c1f0df3bf7aea489f17325089b9c21b649835741973","address":"0x0000000000000000000000000000000000001010","topics":["0x4dfe1bbbcf077ddc3e01291eea2d5c70c2b422b415d95645b9adcfd678cb1d63","0x0000000000000000000000000000000000000000000000000000000000001010","0x000000000000000000000000da1bf4404e46b70ba63d02a92bfd364b1b2534d2","0x0000000000000000000000006ab3d36c46ecfb9b9c0bd51cb1c3da5a2c81cea6"],"data":"0x00000000000000000000000000000000000000000000000000035aca55d4440000000000000000000000000000000000000000000000000001329897a65059f80000000000000000000000000000000000000000000008b44deaf463916dd3c6000000000000000000000000000000000000000000000000012f3dcd507c15f80000000000000000000000000000000000000000000008b44dee4f2de74217c6","logIndex":0,"blockHash":"0xbab2ce95f7deacda562d5485bd11dc7f43c8e258e0046d994e25b8e99fc74074"}],"blockNumber":25642203,"confirmations":1,"cumulativeGasUsed":{"type":"BigNumber","hex":"0x7af3"},"effectiveGasPrice":{"type":"BigNumber","hex":"0x06fc23ac3f"},"status":0,"type":2,"byzantium":true}, code=CALL_EXCEPTION, version=providers/5.8.0)
+    at Logger.makeError (M:\Desktop\CamAppServer\node_modules\@ethersproject\logger\lib\index.js:238:21)
+    at Logger.throwError (M:\Desktop\CamAppServer\node_modules\@ethersproject\logger\lib\index.js:247:20)
+    at JsonRpcProvider.<anonymous> (M:\Desktop\CamAppServer\node_modules\@ethersproject\providers\lib\base-provider.js:1693:36)
+    at step (M:\Desktop\CamAppServer\node_modules\@ethersproject\providers\lib\base-provider.js:48:23)
+    at Object.next (M:\Desktop\CamAppServer\node_modules\@ethersproject\providers\lib\base-provider.js:29:53)
+    at fulfilled (M:\Desktop\CamAppServer\node_modules\@ethersproject\providers\lib\base-provider.js:20:58)
+2025-08-26 15:25:20 info: Incoming Request: POST /api/users/login 
+2025-08-26 15:25:20 info: Pool Event: A client connected successfully! 
+2025-08-26 15:25:44 info: Incoming Request: POST /api/users/register 
+2025-08-26 15:25:44 info: Pool Event: A client connected successfully! 
+2025-08-26 15:25:44 info: Created custodial wallet: 0x05C9523E786992b3cc986a93659227a8271c2d1B 
+2025-08-26 15:25:44 info: User created with ID: 58, Email: newseller1@example.com 
+2025-08-26 15:25:56 info: Incoming Request: POST /api/users/login 
+2025-08-26 15:25:56 info: Pool Event: A client connected successfully! 
+2025-08-26 15:25:56 info: User logged in: newseller1@example.com 
+2025-08-26 15:25:56 info: Incoming Request: GET /api/users/profile 
+2025-08-26 15:25:56 info: Incoming Request: GET /api/nfts/auctions?status=active 
+2025-08-26 15:26:57 info: Incoming Request: POST /api/users/login 
+2025-08-26 15:26:57 info: Pool Event: A client connected successfully! 
+2025-08-26 15:26:57 info: User logged in: seller@example.com 
+2025-08-26 15:26:57 info: Incoming Request: GET /api/users/profile 
+2025-08-26 15:27:38 info: Incoming Request: POST /api/nfts/admin/mint-nft 
+2025-08-26 15:27:38 info: Pool Event: A client connected successfully! 
+2025-08-26 15:27:38 info: Admin access GRANTED for user ID: 7 
+2025-08-26 15:27:40 warn: User 0x05C9523E786992b3cc986a93659227a8271c2d1B has insufficient gas. Funding... 
+2025-08-26 15:27:42 error: Error in adminMintNFT endpoint: 
+2025-08-26 15:28:51 info: Incoming Request: POST /api/nfts/admin/mint-nft 
+2025-08-26 15:28:51 info: Pool Event: A client connected successfully! 
+2025-08-26 15:28:51 info: Admin access GRANTED for user ID: 7 
+2025-08-26 15:28:52 info: Minting NFT for AmPm from their wallet 0x05C9523E786992b3cc986a93659227a8271c2d1B... 
+2025-08-26 15:28:52 warn: Provider's suggested tip is too low. Using configured minimum of 30 Gwei. 
+2025-08-26 15:28:58 info: Mint successful for user 0x05C9523E786992b3cc986a93659227a8271c2d1B. Tx hash: 0xb6e24ea13572427270ca7568c27e3f4b99b19a0698bfb076f6aecb169252207c, TokenId: 38 
+2025-08-26 15:28:58 info: NFT added to DB: Token ID 38, Owner ID 58. 
+2025-08-26 15:35:10 info: Incoming Request: POST /api/nfts/admin/mint-tokens 
+2025-08-26 15:35:11 info: Pool Event: A client connected successfully! 
+2025-08-26 15:35:11 info: Admin access GRANTED for user ID: 7 
+2025-08-26 15:35:11 info: Admin TRANSFERRING .1 NOVA to 0xA268ac3E2b7265EE870F15181b75470Ea8CBd4b0... 
+2025-08-26 15:35:11 warn: Provider's suggested tip is too low. Using configured minimum of 30 Gwei. 
+2025-08-26 15:35:17 info: Transfer successful. Tx hash: 0xa6fc45ce24ce04d4657697480af867635b7752d2b620c1ad422125f3f2075269 
+2025-08-26 15:39:03 info: Incoming Request: GET /api/users/profile 
+2025-08-26 15:39:03 info: Pool Event: A client connected successfully! 
+2025-08-26 15:39:03 info: Incoming Request: GET /api/users/profile 
+2025-08-26 15:41:55 info: Loading user routes... 
+2025-08-26 15:41:56 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-26 15:41:56 info: Contracts (from blockchain.js): 
+2025-08-26 15:41:56 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-26 15:41:56 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-26 15:41:56 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-26 15:41:56 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-26 15:41:56 info: Loaded user routes successfully. 
+2025-08-26 15:41:56 info: Loading nft routes... 
+2025-08-26 15:41:56 info: Loaded nft routes successfully. 
+2025-08-26 15:41:56 info: Starting server... 
+2025-08-26 15:41:56 info: ✅ Server started successfully on http://localhost:9020 
+2025-08-26 15:41:56 info: Pool Event: A client connected successfully! 
+2025-08-26 15:41:56 info: Successfully connected to the PostgreSQL database! 
+2025-08-26 15:41:56 info: Dummy query result (current DB time): 
+2025-08-26 15:47:39 info: Incoming Request: POST /api/users/login 
+2025-08-26 15:47:39 info: Pool Event: A client connected successfully! 
+2025-08-26 15:47:39 info: User logged in: seller@example.com 
+2025-08-26 15:47:39 info: Incoming Request: GET /api/users/profile 
+2025-08-26 15:48:03 info: Incoming Request: POST /api/nfts/admin/mint-tokens 
+2025-08-26 15:48:03 info: Pool Event: A client connected successfully! 
+2025-08-26 15:48:03 info: Admin access GRANTED for user ID: 7 
+2025-08-26 15:48:03 error: Error in /admin/mint-tokens endpoint: invalid decimal value (argument="value", value="AdminPass123!", code=INVALID_ARGUMENT, version=bignumber/5.8.0) 
+Error: invalid decimal value (argument="value", value="AdminPass123!", code=INVALID_ARGUMENT, version=bignumber/5.8.0)
+    at Logger.makeError (M:\Desktop\CamAppServer\node_modules\@ethersproject\logger\lib\index.js:238:21)
+    at Logger.throwError (M:\Desktop\CamAppServer\node_modules\@ethersproject\logger\lib\index.js:247:20)
+    at Logger.throwArgumentError (M:\Desktop\CamAppServer\node_modules\@ethersproject\logger\lib\index.js:250:21)
+    at parseFixed (M:\Desktop\CamAppServer\node_modules\@ethersproject\bignumber\lib\fixednumber.js:73:16)
+    at Object.parseUnits (M:\Desktop\CamAppServer\node_modules\@ethersproject\units\lib\index.js:80:39)
+    at toWei (M:\Desktop\CamAppServer\src\services\blockchain.js:98:40)
+    at adminMintForUser (M:\Desktop\CamAppServer\src\services\blockchain.js:343:21)
+    at M:\Desktop\CamAppServer\src\routes\nft.js:289:26
+    at Layer.handle [as handle_request] (M:\Desktop\CamAppServer\node_modules\express\lib\router\layer.js:95:5)
+    at next (M:\Desktop\CamAppServer\node_modules\express\lib\router\route.js:149:13)
+2025-08-26 15:48:10 info: Incoming Request: POST /api/nfts/admin/mint-tokens 
+2025-08-26 15:48:10 info: Admin access GRANTED for user ID: 7 
+2025-08-26 15:48:10 info: Admin TRANSFERRING 20 NOVA to 0xA268ac3E2b7265EE870F15181b75470Ea8CBd4b0... 
+2025-08-26 15:48:11 warn: Provider's suggested tip is too low. Using configured minimum of 30 Gwei. 
+2025-08-26 15:48:12 info: Incoming Request: POST /api/nfts/admin/mint-tokens 
+2025-08-26 15:48:12 info: Admin access GRANTED for user ID: 7 
+2025-08-26 15:48:12 info: Admin TRANSFERRING 20 NOVA to 0xA268ac3E2b7265EE870F15181b75470Ea8CBd4b0... 
+2025-08-26 15:48:13 warn: Provider's suggested tip is too low. Using configured minimum of 30 Gwei. 
+2025-08-26 15:48:17 info: Transfer successful. Tx hash: 0x85ca10bb26bfbc59bcc5e4aa29513f5cb7adba7e148cc828a75f57cc2b65418a 
+2025-08-26 15:48:21 info: Transfer successful. Tx hash: 0xf09965788264ff57075045e9b05df25afb7fdbaca2e38a66af9421bd84598c4a 
+2025-08-26 15:52:31 info: Incoming Request: POST /api/users/login 
+2025-08-26 15:52:31 info: Pool Event: A client connected successfully! 
+2025-08-26 15:52:31 info: User logged in: newseller1@example.com 
+2025-08-26 15:52:31 info: Incoming Request: GET /api/users/profile 
+2025-08-26 15:52:33 info: Incoming Request: GET /api/nfts/auctions?status=active 
+2025-08-26 15:52:38 info: Incoming Request: GET /api/users/profile 
+2025-08-26 15:52:38 info: Incoming Request: GET /api/users/profile 
+2025-08-26 15:52:39 info: Incoming Request: GET /api/nfts/auctions?status=active 
+2025-08-26 15:52:53 info: Incoming Request: GET /api/users/my-nfts 
+2025-08-26 15:52:53 info: Pool Event: A client connected successfully! 
+2025-08-26 15:52:53 info: Incoming Request: GET /api/users/my-nfts 
+2025-08-26 15:53:07 info: Incoming Request: POST /api/nfts/approve-listing 
+2025-08-26 15:53:08 info: Pool Event: A client connected successfully! 
+2025-08-26 15:53:08 warn: Provider's suggested tip is too low. Using configured minimum of 30 Gwei. 
+2025-08-26 15:53:14 info: Incoming Request: POST /api/nfts/list-item 
+2025-08-26 15:53:15 warn: Provider's suggested tip is too low. Using configured minimum of 30 Gwei. 
+2025-08-26 15:53:20 info: Initial listing created for NFT 38. 
+2025-08-26 15:53:20 info: Listing 13 updated with auction details. 
+2025-08-26 15:54:50 info: Incoming Request: POST /api/users/login 
+2025-08-26 15:54:50 info: Pool Event: A client connected successfully! 
+2025-08-26 15:54:50 info: User logged in: final_buyer11@example.com 
+2025-08-26 15:54:50 info: Incoming Request: GET /api/users/profile 
+2025-08-26 15:54:51 info: Incoming Request: GET /api/nfts/auctions?status=active 
+2025-08-26 15:55:06 info: Incoming Request: GET /api/nfts/auctions/13 
+2025-08-26 15:55:06 info: Incoming Request: GET /api/users/profile 
+2025-08-26 15:55:06 info: Pool Event: A client connected successfully! 
+2025-08-26 15:55:06 info: Pool Event: A client connected successfully! 
+2025-08-26 15:55:06 info: Incoming Request: GET /api/nfts/auctions/13 
+2025-08-26 15:55:06 info: Incoming Request: GET /api/users/profile 
+2025-08-26 15:55:06 info: Incoming Request: GET /api/nfts/auctions/13 
+2025-08-26 15:55:06 info: Incoming Request: GET /api/users/profile 
+2025-08-26 15:55:13 info: Incoming Request: POST /api/nfts/auctions/bid 
+2025-08-26 15:55:14 warn: Provider's suggested tip is too low. Using configured minimum of 30 Gwei. 
+2025-08-26 15:55:29 warn: Provider's suggested tip is too low. Using configured minimum of 30 Gwei. 
+2025-08-26 15:55:38 info: Pool Event: A client connected successfully! 
+2025-08-26 15:55:38 info: Bid added to DB for auction_contract_id 25 by bidder 56. 
+2025-08-26 15:55:38 info: Listing with auction_contract_id 25 highest bid updated in DB. 
+2025-08-26 15:55:44 info: Incoming Request: GET /api/nfts/auctions/13 
+2025-08-26 23:35:45 info: Incoming Request: GET /api/nfts/auctions/13 
+2025-08-26 23:35:45 info: Pool Event: A client connected successfully! 
+2025-08-26 23:36:10 info: Incoming Request: POST /api/users/login 
+2025-08-26 23:36:11 info: Pool Event: A client connected successfully! 
+2025-08-26 23:36:11 info: User logged in: newseller1@example.com 
+2025-08-26 23:36:11 info: Incoming Request: GET /api/users/profile 
+2025-08-26 23:36:11 info: Incoming Request: GET /api/nfts/auctions?status=active 
+2025-08-26 23:36:21 info: Incoming Request: GET /api/nfts/auctions/13 
+2025-08-26 23:36:21 info: Incoming Request: GET /api/nfts/auctions/13 
+2025-08-26 23:36:21 info: Incoming Request: GET /api/users/profile 
+2025-08-26 23:36:21 info: Pool Event: A client connected successfully! 
+2025-08-26 23:36:21 info: Incoming Request: GET /api/users/profile 
+2025-08-26 23:36:21 info: Incoming Request: GET /api/nfts/auctions/13 
+2025-08-26 23:36:21 info: Incoming Request: GET /api/users/profile 
+2025-08-26 23:36:25 info: Incoming Request: POST /api/nfts/auctions/end 
+2025-08-26 23:36:26 warn: Provider's suggested tip is too low. Using configured minimum of 30 Gwei. 
+2025-08-26 23:36:32 info: Listing 13 status updated to 'sold' with winner/amount in DB. 
+2025-08-26 23:36:32 info: NFT 38 ownership updated to ownerId: 56. 
+2025-08-26 23:36:46 info: Incoming Request: GET /api/nfts/auctions/13 
+2025-08-26 23:36:46 info: Pool Event: A client connected successfully! 
+2025-08-26 23:36:47 info: Incoming Request: GET /api/nfts/auctions/13 
+2025-08-26 23:37:12 info: Incoming Request: POST /api/users/login 
+2025-08-26 23:37:12 info: Pool Event: A client connected successfully! 
+2025-08-26 23:37:18 info: Incoming Request: POST /api/users/login 
+2025-08-26 23:37:23 info: Incoming Request: POST /api/users/login 
+2025-08-26 23:37:23 info: User logged in: final_buyer11@example.com 
+2025-08-26 23:37:23 info: Incoming Request: GET /api/users/profile 
+2025-08-26 23:37:23 info: Incoming Request: GET /api/nfts/auctions?status=active 
+2025-08-26 23:37:27 info: Incoming Request: GET /api/users/my-nfts 
+2025-08-26 23:37:27 info: Incoming Request: GET /api/users/my-nfts 
+2025-08-26 23:42:58 info: Incoming Request: GET /api/users/profile 
+2025-08-26 23:42:59 info: Pool Event: A client connected successfully! 
+2025-08-26 23:42:59 info: Incoming Request: GET /api/users/profile 
+2025-08-26 23:42:59 info: Incoming Request: GET /api/users/my-nfts 
+2025-08-26 23:42:59 info: Incoming Request: GET /api/users/my-nfts 
+2025-08-26 23:43:02 info: Incoming Request: GET /api/users/profile 
+2025-08-26 23:43:02 info: Incoming Request: GET /api/users/profile 
+2025-08-26 23:43:02 info: Incoming Request: GET /api/users/my-nfts 
+2025-08-26 23:43:02 info: Incoming Request: GET /api/users/my-nfts 
+2025-08-26 23:43:04 info: Incoming Request: GET /api/users/profile 
+2025-08-26 23:43:04 info: Incoming Request: GET /api/users/profile 
+2025-08-26 23:43:04 info: Incoming Request: GET /api/users/my-nfts 
+2025-08-26 23:43:05 info: Incoming Request: GET /api/users/profile 
+2025-08-26 23:43:05 info: Incoming Request: GET /api/users/profile 
+2025-08-26 23:43:05 info: Incoming Request: GET /api/users/my-nfts 
+2025-08-26 23:43:05 info: Incoming Request: GET /api/users/my-nfts 
+2025-08-26 23:43:06 info: Incoming Request: GET /api/users/profile 
+2025-08-26 23:43:06 info: Incoming Request: GET /api/users/profile 
+2025-08-26 23:43:06 info: Incoming Request: GET /api/users/my-nfts 
+2025-08-26 23:43:06 info: Incoming Request: GET /api/users/my-nfts 
+2025-08-26 23:43:08 info: Incoming Request: GET /api/users/profile 
+2025-08-26 23:43:08 info: Incoming Request: GET /api/users/profile 
+2025-08-26 23:43:08 info: Incoming Request: GET /api/users/my-nfts 
+2025-08-26 23:43:13 info: Incoming Request: GET /api/users/profile 
+2025-08-26 23:43:13 info: Incoming Request: GET /api/users/profile 
+2025-08-26 23:43:13 info: Incoming Request: GET /api/users/my-nfts 
+2025-08-26 23:43:13 info: Incoming Request: GET /api/users/my-nfts 

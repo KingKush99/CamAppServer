@@ -1,0 +1,273 @@
+2025-08-25 00:16:15 info: Loading user routes... 
+2025-08-25 00:16:16 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-25 00:16:16 info: Contracts (from blockchain.js): 
+2025-08-25 00:16:16 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-25 00:16:16 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-25 00:16:16 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-25 00:16:16 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-25 00:16:16 info: Loaded user routes successfully. 
+2025-08-25 00:16:16 info: Loading nft routes... 
+2025-08-25 00:16:16 info: Loaded nft routes successfully. 
+2025-08-25 00:32:34 info: Loading user routes... 
+2025-08-25 00:32:34 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-25 00:32:34 info: Contracts (from blockchain.js): 
+2025-08-25 00:32:34 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-25 00:32:34 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-25 00:32:34 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-25 00:32:34 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-25 00:32:34 info: Loaded user routes successfully. 
+2025-08-25 00:32:34 info: Loading nft routes... 
+2025-08-25 00:32:34 info: Loaded nft routes successfully. 
+2025-08-25 00:32:34 info: Starting server... 
+2025-08-25 00:32:34 info: ✅ Server started successfully on http://localhost:9020 
+2025-08-25 00:32:34 info: Pool Event: A client connected successfully! 
+2025-08-25 00:32:34 info: Successfully connected to the PostgreSQL database! 
+2025-08-25 00:32:34 info: Dummy query result (current DB time): 
+2025-08-25 00:35:48 info: Incoming Request: OPTIONS /api/users/login 
+2025-08-25 00:35:59 info: Incoming Request: OPTIONS /api/users/login 
+2025-08-25 00:36:02 info: Incoming Request: OPTIONS /api/users/login 
+2025-08-25 00:36:18 info: Incoming Request: OPTIONS /api/users/login 
+2025-08-25 00:36:27 info: Incoming Request: OPTIONS /api/users/login 
+2025-08-25 01:11:43 info: Incoming Request: GET /api/users/debug/5 
+2025-08-25 01:12:20 info: Incoming Request: OPTIONS /api/users/login 
+2025-08-25 01:12:28 info: Incoming Request: OPTIONS /api/users/login 
+2025-08-25 01:12:30 info: Incoming Request: OPTIONS /api/users/login 
+2025-08-25 01:13:03 info: Incoming Request: OPTIONS /api/users/login 
+2025-08-25 13:38:51 info: Incoming Request: OPTIONS /api/users/login 
+2025-08-25 13:39:04 info: Incoming Request: OPTIONS /api/users/login 
+2025-08-25 13:39:05 info: Incoming Request: OPTIONS /api/users/login 
+2025-08-25 13:40:03 info: Loading user routes... 
+2025-08-25 13:40:03 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-25 13:40:03 info: Contracts (from blockchain.js): 
+2025-08-25 13:40:03 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-25 13:40:03 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-25 13:40:03 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-25 13:40:03 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-25 13:40:03 info: Loaded user routes successfully. 
+2025-08-25 13:40:03 info: Loading nft routes... 
+2025-08-25 13:40:03 info: Loaded nft routes successfully. 
+2025-08-25 13:40:03 info: Starting server... 
+2025-08-25 13:40:03 info: ✅ Server started successfully on http://localhost:9020 
+2025-08-25 13:40:03 info: Pool Event: A client connected successfully! 
+2025-08-25 13:40:03 info: Successfully connected to the PostgreSQL database! 
+2025-08-25 13:40:03 info: Dummy query result (current DB time): 
+2025-08-25 14:08:38 info: Loading user routes... 
+2025-08-25 14:08:39 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-25 14:08:39 info: Contracts (from blockchain.js): 
+2025-08-25 14:08:39 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-25 14:08:39 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-25 14:08:39 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-25 14:08:39 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-25 14:08:39 info: Loaded user routes successfully. 
+2025-08-25 14:08:39 info: Loading nft routes... 
+2025-08-25 14:08:39 info: Loaded nft routes successfully. 
+2025-08-25 14:08:39 info: Starting server... 
+2025-08-25 14:08:39 info: ✅ Server started successfully on http://localhost:9020 
+2025-08-25 14:09:24 info: Loading user routes... 
+2025-08-25 14:09:24 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-25 14:09:24 info: Contracts (from blockchain.js): 
+2025-08-25 14:09:24 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-25 14:09:24 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-25 14:09:24 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-25 14:09:24 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-25 14:09:24 info: Loaded user routes successfully. 
+2025-08-25 14:09:24 info: Loading nft routes... 
+2025-08-25 14:09:24 info: Loaded nft routes successfully. 
+2025-08-25 14:09:24 info: Starting server... 
+2025-08-25 14:09:24 info: ✅ Server started successfully on http://localhost:9020 
+2025-08-25 14:10:21 info: Loading user routes... 
+2025-08-25 14:10:22 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-25 14:10:22 info: Contracts (from blockchain.js): 
+2025-08-25 14:10:22 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-25 14:10:22 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-25 14:10:22 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-25 14:10:22 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-25 14:10:22 info: Loaded user routes successfully. 
+2025-08-25 14:10:22 info: Loading nft routes... 
+2025-08-25 14:10:22 info: Loaded nft routes successfully. 
+2025-08-25 14:10:22 info: Starting server... 
+2025-08-25 14:10:22 info: ✅ Server started successfully on http://localhost:9020 
+2025-08-25 14:10:22 info: Pool Event: A client connected successfully! 
+2025-08-25 14:10:22 info: Successfully connected to the PostgreSQL database! 
+2025-08-25 14:10:22 info: Dummy query result (current DB time): 
+2025-08-25 14:10:43 info: Incoming Request: OPTIONS /api/users/login 
+2025-08-25 14:12:25 info: Incoming Request: OPTIONS /api/users/login 
+2025-08-25 15:05:52 info: Loading user routes... 
+2025-08-25 15:05:53 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-25 15:05:53 info: Contracts (from blockchain.js): 
+2025-08-25 15:05:53 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-25 15:05:53 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-25 15:05:53 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-25 15:05:53 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-25 15:05:53 info: Loaded user routes successfully. 
+2025-08-25 15:05:53 info: Loading nft routes... 
+2025-08-25 15:05:53 info: Loaded nft routes successfully. 
+2025-08-25 15:05:53 info: Starting server... 
+2025-08-25 15:05:53 info: ✅ Server started successfully on http://localhost:9020 
+2025-08-25 15:09:30 info: Loading user routes... 
+2025-08-25 15:09:30 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-25 15:09:30 info: Contracts (from blockchain.js): 
+2025-08-25 15:09:30 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-25 15:09:30 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-25 15:09:30 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-25 15:09:30 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-25 15:09:30 info: Loaded user routes successfully. 
+2025-08-25 15:09:30 info: Loading nft routes... 
+2025-08-25 15:09:30 info: Loaded nft routes successfully. 
+2025-08-25 15:09:30 info: Starting server... 
+2025-08-25 15:09:30 info: ✅ Server started successfully on http://localhost:9020 
+2025-08-25 15:09:30 info: Pool Event: A client connected successfully! 
+2025-08-25 15:09:30 info: Successfully connected to the PostgreSQL database! 
+2025-08-25 15:09:30 info: Dummy query result (current DB time): 
+2025-08-25 15:09:48 info: Incoming Request: OPTIONS /api/users/login 
+2025-08-25 15:10:19 info: Incoming Request: OPTIONS /api/users/login 
+2025-08-25 15:18:10 info: Loading user routes... 
+2025-08-25 15:18:10 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-25 15:18:10 info: Contracts (from blockchain.js): 
+2025-08-25 15:18:10 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-25 15:18:10 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-25 15:18:10 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-25 15:18:10 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-25 15:18:10 info: Loaded user routes successfully. 
+2025-08-25 15:18:10 info: Loading nft routes... 
+2025-08-25 15:18:10 info: Loaded nft routes successfully. 
+2025-08-25 15:18:10 info: Starting server... 
+2025-08-25 15:18:10 info: ✅ Server started successfully on http://localhost:9020 
+2025-08-25 15:18:10 info: Pool Event: A client connected successfully! 
+2025-08-25 15:18:10 info: Successfully connected to the PostgreSQL database! 
+2025-08-25 15:18:10 info: Dummy query result (current DB time): 
+2025-08-25 15:18:16 info: Incoming Request: OPTIONS /api/users/login 
+2025-08-25 15:51:38 info: Loading user routes... 
+2025-08-25 15:51:38 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-25 15:51:38 info: Contracts (from blockchain.js): 
+2025-08-25 15:51:38 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-25 15:51:38 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-25 15:51:38 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-25 15:51:38 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-25 15:51:38 info: Loaded user routes successfully. 
+2025-08-25 15:51:38 info: Loading nft routes... 
+2025-08-25 15:51:38 info: Loaded nft routes successfully. 
+2025-08-25 15:51:38 info: Starting server... 
+2025-08-25 15:51:38 info: ✅ Server started successfully on http://localhost:9020 
+2025-08-25 15:51:38 info: Pool Event: A client connected successfully! 
+2025-08-25 15:51:38 info: Successfully connected to the PostgreSQL database! 
+2025-08-25 15:51:38 info: Dummy query result (current DB time): 
+2025-08-25 15:51:44 info: Incoming Request: OPTIONS /api/users/login 
+2025-08-25 16:01:28 info: Loading user routes... 
+2025-08-25 16:01:29 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-25 16:01:29 info: Contracts (from blockchain.js): 
+2025-08-25 16:01:29 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-25 16:01:29 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-25 16:01:29 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-25 16:01:29 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-25 16:01:29 info: Loaded user routes successfully. 
+2025-08-25 16:01:29 info: Loading nft routes... 
+2025-08-25 16:01:29 info: Loaded nft routes successfully. 
+2025-08-25 16:01:29 info: Starting server... 
+2025-08-25 16:01:29 info: ✅ Server started successfully on http://localhost:9020 
+2025-08-25 16:01:29 info: Pool Event: A client connected successfully! 
+2025-08-25 16:01:29 info: Successfully connected to the PostgreSQL database! 
+2025-08-25 16:01:29 info: Dummy query result (current DB time): 
+2025-08-25 16:01:59 info: Incoming Request: POST /api/users/login 
+2025-08-25 16:01:59 info: Pool Event: A client connected successfully! 
+2025-08-25 16:01:59 info: User logged in: seller@example.com 
+2025-08-25 16:01:59 info: Incoming Request: GET /api/users/profile 
+2025-08-25 16:03:53 info: Incoming Request: POST /api/nfts/admin/mint-nft 
+2025-08-25 16:03:53 info: Pool Event: A client connected successfully! 
+2025-08-25 16:03:53 warn: Admin access DENIED for user ID: 7 (role: undefined) 
+2025-08-25 16:24:51 info: Loading user routes... 
+2025-08-25 16:24:51 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-25 16:24:51 info: Contracts (from blockchain.js): 
+2025-08-25 16:24:51 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-25 16:24:51 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-25 16:24:51 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-25 16:24:51 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-25 16:24:51 info: Loaded user routes successfully. 
+2025-08-25 16:24:51 info: Loading nft routes... 
+2025-08-25 16:24:52 info: Loaded nft routes successfully. 
+2025-08-25 16:24:52 info: Starting server... 
+2025-08-25 16:24:52 info: ✅ Server started successfully on http://localhost:9020 
+2025-08-25 16:24:52 info: Pool Event: A client connected successfully! 
+2025-08-25 16:24:52 info: Successfully connected to the PostgreSQL database! 
+2025-08-25 16:24:52 info: Dummy query result (current DB time): 
+2025-08-25 16:26:16 info: Incoming Request: POST /api/users/login 
+2025-08-25 16:26:16 info: Pool Event: A client connected successfully! 
+2025-08-25 16:26:16 info: User logged in: seller@example.com 
+2025-08-25 16:26:16 info: Incoming Request: GET /api/users/profile 
+2025-08-25 16:26:48 info: Incoming Request: POST /api/nfts/admin/mint-nft 
+2025-08-25 16:26:48 info: Pool Event: A client connected successfully! 
+2025-08-25 16:26:48 warn: Admin access DENIED for user ID: 7 (role: undefined) 
+2025-08-25 16:46:37 info: Loading user routes... 
+2025-08-25 16:46:37 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-25 16:46:37 info: Contracts (from blockchain.js): 
+2025-08-25 16:46:37 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-25 16:46:37 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-25 16:46:37 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-25 16:46:37 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-25 16:46:37 info: Loaded user routes successfully. 
+2025-08-25 16:46:37 info: Loading nft routes... 
+2025-08-25 16:46:37 info: Loaded nft routes successfully. 
+2025-08-25 16:46:37 info: Starting server... 
+2025-08-25 16:46:37 info: ✅ Server started successfully on http://localhost:9020 
+2025-08-25 16:46:37 info: Pool Event: A client connected successfully! 
+2025-08-25 16:46:37 info: Successfully connected to the PostgreSQL database! 
+2025-08-25 16:46:37 info: Dummy query result (current DB time): 
+2025-08-25 16:47:03 info: Incoming Request: POST /api/users/login 
+2025-08-25 16:47:04 info: Pool Event: A client connected successfully! 
+2025-08-25 16:47:04 info: User logged in: seller@example.com 
+2025-08-25 16:47:04 info: Incoming Request: GET /api/users/profile 
+2025-08-25 16:47:14 info: Incoming Request: POST /api/nfts/admin/mint-nft 
+2025-08-25 16:47:14 info: Pool Event: A client connected successfully! 
+2025-08-25 16:47:14 warn: Admin access DENIED for user ID: 7 (role: undefined) 
+2025-08-25 17:44:53 info: Incoming Request: POST /api/nfts/admin/mint-nft 
+2025-08-25 17:44:53 info: Pool Event: A client connected successfully! 
+2025-08-25 17:44:53 warn: Admin access DENIED for user ID: 7 (role: undefined) 
+2025-08-25 17:45:21 info: Incoming Request: POST /api/users/login 
+2025-08-25 17:45:21 info: Pool Event: A client connected successfully! 
+2025-08-25 17:45:21 info: User logged in: seller@example.com 
+2025-08-25 17:45:21 info: Incoming Request: GET /api/users/profile 
+2025-08-25 17:45:41 info: Incoming Request: POST /api/nfts/admin/mint-nft 
+2025-08-25 17:45:41 info: Pool Event: A client connected successfully! 
+2025-08-25 17:45:41 warn: Admin access DENIED for user ID: 7 (role: undefined) 
+2025-08-25 17:45:52 info: Incoming Request: GET /api/users/profile 
+2025-08-25 17:45:52 info: Pool Event: A client connected successfully! 
+2025-08-25 17:45:52 info: Incoming Request: GET /api/users/profile 
+2025-08-25 17:46:03 info: Incoming Request: POST /api/nfts/admin/mint-nft 
+2025-08-25 17:46:03 info: Pool Event: A client connected successfully! 
+2025-08-25 17:46:03 warn: Admin access DENIED for user ID: 7 (role: undefined) 
+2025-08-25 17:46:23 info: Incoming Request: POST /api/nfts/admin/mint-nft 
+2025-08-25 17:46:23 info: Pool Event: A client connected successfully! 
+2025-08-25 17:46:23 warn: Admin access DENIED for user ID: 7 (role: undefined) 
+2025-08-25 18:03:40 info: Loading user routes... 
+2025-08-25 18:03:41 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-25 18:03:41 info: Contracts (from blockchain.js): 
+2025-08-25 18:03:41 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-25 18:03:41 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-25 18:03:41 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-25 18:03:41 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-25 18:03:41 info: Loaded user routes successfully. 
+2025-08-25 18:03:41 info: Loading nft routes... 
+2025-08-25 18:03:41 info: Loaded nft routes successfully. 
+2025-08-25 18:03:41 info: Starting server... 
+2025-08-25 18:03:41 info: ✅ Server started successfully on http://localhost:9020 
+2025-08-25 18:03:41 info: Pool Event: A client connected successfully! 
+2025-08-25 18:03:41 info: Successfully connected to the PostgreSQL database! 
+2025-08-25 18:03:41 info: Dummy query result (current DB time): 
+2025-08-25 18:03:47 info: Incoming Request: GET /api/users/profile 
+2025-08-25 18:03:47 info: Incoming Request: GET /api/users/profile 
+2025-08-25 18:04:05 info: Incoming Request: POST /api/users/login 
+2025-08-25 18:04:05 info: Pool Event: A client connected successfully! 
+2025-08-25 18:04:05 info: User logged in: seller@example.com 
+2025-08-25 18:04:05 info: Incoming Request: GET /api/users/profile 
+2025-08-25 18:04:15 info: Incoming Request: POST /api/nfts/admin/mint-nft 
+2025-08-25 18:04:15 info: Admin access GRANTED for user ID: 7 
+2025-08-25 18:04:22 info: NFT added to DB: Token ID 36, Owner ID 55. 
+2025-08-25 18:16:26 info: Incoming Request: POST /api/nfts/admin/mint-tokens 
+2025-08-25 18:16:26 info: Pool Event: A client connected successfully! 
+2025-08-25 18:16:26 info: Admin access GRANTED for user ID: 7 
+2025-08-25 18:16:27 info: Admin minting 0.1 NOVA to 0xA268ac3E2b7265EE870F15181b75470Ea8CBd4b0... 
+2025-08-25 18:16:27 error: Error in /admin/mint-tokens endpoint: novaCoinContract.mint is not a function 
+TypeError: novaCoinContract.mint is not a function
+    at adminMintForUser (M:\Desktop\CamAppServer\src\services\blockchain.js:318:37)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async M:\Desktop\CamAppServer\src\routes\nft.js:293:20

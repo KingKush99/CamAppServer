@@ -1,0 +1,5 @@
+2025-08-25 18:16:27 error: Error in /admin/mint-tokens endpoint: novaCoinContract.mint is not a function 
+TypeError: novaCoinContract.mint is not a function
+    at adminMintForUser (M:\Desktop\CamAppServer\src\services\blockchain.js:318:37)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async M:\Desktop\CamAppServer\src\routes\nft.js:293:20

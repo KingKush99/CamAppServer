@@ -1,0 +1,237 @@
+2025-08-21 00:01:09 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-21 00:01:09 info: Contracts (from blockchain.js): 
+2025-08-21 00:01:09 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-21 00:01:09 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-21 00:01:09 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-21 00:01:09 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-21 00:01:09 info: Pool Event: A client connected successfully! 
+2025-08-21 00:01:09 info: Successfully connected to the PostgreSQL database! 
+2025-08-21 00:01:09 info: Dummy query result (current DB time): 
+2025-08-21 00:03:42 info: Pool Event: A client connected successfully! 
+2025-08-21 00:03:42 info: User logged in: buyer_run17@example.com 
+2025-08-21 00:03:44 info: User logged in: buyer_run17@example.com 
+2025-08-21 00:03:47 info: User logged in: admin@example.com 
+2025-08-21 00:07:27 info: Pool Event: A client connected successfully! 
+2025-08-21 00:13:46 info: Pool Event: A client connected successfully! 
+2025-08-21 00:13:47 info: Admin minting 10 NOVA to 0xee66be5e33f51765CaB3E9691b1bD9091FE348A5... 
+2025-08-21 00:13:47 error: Error in /admin/mint-tokens endpoint: novaCoinContract.mint is not a function 
+TypeError: novaCoinContract.mint is not a function
+    at adminMintForUser (M:\Desktop\CamAppServer\src\services\blockchain.js:361:37)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async M:\Desktop\CamAppServer\src\routes\nft.js:607:20
+2025-08-21 00:57:11 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-21 00:57:11 info: Contracts (from blockchain.js): 
+2025-08-21 00:57:11 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-21 00:57:11 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-21 00:57:11 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-21 00:57:11 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-21 00:57:12 info: Pool Event: A client connected successfully! 
+2025-08-21 00:57:12 info: Successfully connected to the PostgreSQL database! 
+2025-08-21 00:57:12 info: Dummy query result (current DB time): 
+2025-08-21 01:07:37 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-21 01:07:37 info: Contracts (from blockchain.js): 
+2025-08-21 01:07:37 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-21 01:07:37 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-21 01:07:37 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-21 01:07:37 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-21 01:07:37 info: Pool Event: A client connected successfully! 
+2025-08-21 01:07:37 info: Successfully connected to the PostgreSQL database! 
+2025-08-21 01:07:37 info: Dummy query result (current DB time): 
+2025-08-21 01:07:57 info: Pool Event: A client connected successfully! 
+2025-08-21 01:07:57 info: User logged in: admin@example.com 
+2025-08-21 01:09:13 info: Pool Event: A client connected successfully! 
+2025-08-21 01:09:13 info: User logged in: buyer_run17@example.com 
+2025-08-21 01:17:52 info: Pool Event: A client connected successfully! 
+2025-08-21 01:17:52 info: User logged in: admin@example.com 
+2025-08-21 01:18:35 info: Pool Event: A client connected successfully! 
+2025-08-21 01:18:36 info: Admin minting 10 NOVA to 0xee66be5e33f51765CaB3E9691b1bD9091FE348A5... 
+2025-08-21 01:18:36 error: Error in /admin/mint-tokens endpoint: novaCoinContract.mint is not a function 
+TypeError: novaCoinContract.mint is not a function
+    at adminMintForUser (M:\Desktop\CamAppServer\src\services\blockchain.js:325:37)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async M:\Desktop\CamAppServer\src\routes\nft.js:527:20
+2025-08-21 01:19:29 info: Pool Event: A client connected successfully! 
+2025-08-21 01:19:30 info: Admin minting 10 NOVA to 0xee66be5e33f51765CaB3E9691b1bD9091FE348A5... 
+2025-08-21 01:19:30 error: Error in /admin/mint-tokens endpoint: novaCoinContract.mint is not a function 
+TypeError: novaCoinContract.mint is not a function
+    at adminMintForUser (M:\Desktop\CamAppServer\src\services\blockchain.js:325:37)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async M:\Desktop\CamAppServer\src\routes\nft.js:527:20
+2025-08-21 01:19:51 info: Pool Event: A client connected successfully! 
+2025-08-21 01:19:51 info: User logged in: buyer_run17@example.com 
+2025-08-21 01:20:03 info: Pool Event: A client connected successfully! 
+2025-08-21 01:20:04 info: Admin minting 10 NOVA to 0xee66be5e33f51765CaB3E9691b1bD9091FE348A5... 
+2025-08-21 01:20:04 error: Error in /admin/mint-tokens endpoint: novaCoinContract.mint is not a function 
+TypeError: novaCoinContract.mint is not a function
+    at adminMintForUser (M:\Desktop\CamAppServer\src\services\blockchain.js:325:37)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async M:\Desktop\CamAppServer\src\routes\nft.js:527:20
+2025-08-21 01:20:07 info: Admin minting 10 NOVA to 0xee66be5e33f51765CaB3E9691b1bD9091FE348A5... 
+2025-08-21 01:20:07 error: Error in /admin/mint-tokens endpoint: novaCoinContract.mint is not a function 
+TypeError: novaCoinContract.mint is not a function
+    at adminMintForUser (M:\Desktop\CamAppServer\src\services\blockchain.js:325:37)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async M:\Desktop\CamAppServer\src\routes\nft.js:527:20
+2025-08-21 01:49:00 info: Pool Event: A client connected successfully! 
+2025-08-21 01:49:00 info: User logged in: admin@example.com 
+2025-08-21 01:49:13 info: Pool Event: A client connected successfully! 
+2025-08-21 01:49:15 error: Error granting max approval for NovaCoin: insufficient funds for intrinsic transaction cost [ See: https://links.ethers.org/v5-errors-INSUFFICIENT_FUNDS ] (error={"reason":"processing response error","code":"SERVER_ERROR","body":"{\"jsonrpc\":\"2.0\",\"id\":72,\"error\":{\"code\":-32000,\"message\":\"insufficient funds for gas * price + value: balance 0, tx cost 4200000000000000, overshot 4200000000000000\"}}\n","error":{"code":-32000},"requestBody":"{\"method\":\"eth_sendRawTransaction\",\"params\":[\"0x02f8b583013882808506fc23ac00850df8475800830111709449fc118e0c9931f8b287292b2e61b571651f01ec80b844095ea7b3000000000000000000000000f471af2aff654a07cd9f55b6cfa22dd019fbafefffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc001a05657142d1cf0ed30b41c6d0f2d363837c3133e46c21016af8319bf4c81df09f4a0766e85c5b993b4c1adaf708e285b6c9c0df46a8f9244896ad60f05572a959801\"],\"id\":72,\"jsonrpc\":\"2.0\"}","requestMethod":"POST","url":"https://rpc-amoy.polygon.technology/"}, method="sendTransaction", transaction="0x02f8b583013882808506fc23ac00850df8475800830111709449fc118e0c9931f8b287292b2e61b571651f01ec80b844095ea7b3000000000000000000000000f471af2aff654a07cd9f55b6cfa22dd019fbafefffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc001a05657142d1cf0ed30b41c6d0f2d363837c3133e46c21016af8319bf4c81df09f4a0766e85c5b993b4c1adaf708e285b6c9c0df46a8f9244896ad60f05572a959801", code=INSUFFICIENT_FUNDS, version=providers/5.8.0) 
+Error: insufficient funds for intrinsic transaction cost [ See: https://links.ethers.org/v5-errors-INSUFFICIENT_FUNDS ] (error={"reason":"processing response error","code":"SERVER_ERROR","body":"{\"jsonrpc\":\"2.0\",\"id\":72,\"error\":{\"code\":-32000,\"message\":\"insufficient funds for gas * price + value: balance 0, tx cost 4200000000000000, overshot 4200000000000000\"}}\n","error":{"code":-32000},"requestBody":"{\"method\":\"eth_sendRawTransaction\",\"params\":[\"0x02f8b583013882808506fc23ac00850df8475800830111709449fc118e0c9931f8b287292b2e61b571651f01ec80b844095ea7b3000000000000000000000000f471af2aff654a07cd9f55b6cfa22dd019fbafefffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc001a05657142d1cf0ed30b41c6d0f2d363837c3133e46c21016af8319bf4c81df09f4a0766e85c5b993b4c1adaf708e285b6c9c0df46a8f9244896ad60f05572a959801\"],\"id\":72,\"jsonrpc\":\"2.0\"}","requestMethod":"POST","url":"https://rpc-amoy.polygon.technology/"}, method="sendTransaction", transaction="0x02f8b583013882808506fc23ac00850df8475800830111709449fc118e0c9931f8b287292b2e61b571651f01ec80b844095ea7b3000000000000000000000000f471af2aff654a07cd9f55b6cfa22dd019fbafefffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc001a05657142d1cf0ed30b41c6d0f2d363837c3133e46c21016af8319bf4c81df09f4a0766e85c5b993b4c1adaf708e285b6c9c0df46a8f9244896ad60f05572a959801", code=INSUFFICIENT_FUNDS, version=providers/5.8.0)
+    at Logger.makeError (M:\Desktop\CamAppServer\node_modules\@ethersproject\logger\lib\index.js:238:21)
+    at Logger.throwError (M:\Desktop\CamAppServer\node_modules\@ethersproject\logger\lib\index.js:247:20)
+    at checkError (M:\Desktop\CamAppServer\node_modules\@ethersproject\providers\lib\json-rpc-provider.js:144:16)
+    at JsonRpcProvider.<anonymous> (M:\Desktop\CamAppServer\node_modules\@ethersproject\providers\lib\json-rpc-provider.js:751:47)
+    at step (M:\Desktop\CamAppServer\node_modules\@ethersproject\providers\lib\json-rpc-provider.js:48:23)
+    at Object.throw (M:\Desktop\CamAppServer\node_modules\@ethersproject\providers\lib\json-rpc-provider.js:29:53)
+    at rejected (M:\Desktop\CamAppServer\node_modules\@ethersproject\providers\lib\json-rpc-provider.js:21:65)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-08-21 01:49:15 error: API Error in /approve-max: insufficient funds for intrinsic transaction cost [ See: https://links.ethers.org/v5-errors-INSUFFICIENT_FUNDS ] (error={"reason":"processing response error","code":"SERVER_ERROR","body":"{\"jsonrpc\":\"2.0\",\"id\":72,\"error\":{\"code\":-32000,\"message\":\"insufficient funds for gas * price + value: balance 0, tx cost 4200000000000000, overshot 4200000000000000\"}}\n","error":{"code":-32000},"requestBody":"{\"method\":\"eth_sendRawTransaction\",\"params\":[\"0x02f8b583013882808506fc23ac00850df8475800830111709449fc118e0c9931f8b287292b2e61b571651f01ec80b844095ea7b3000000000000000000000000f471af2aff654a07cd9f55b6cfa22dd019fbafefffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc001a05657142d1cf0ed30b41c6d0f2d363837c3133e46c21016af8319bf4c81df09f4a0766e85c5b993b4c1adaf708e285b6c9c0df46a8f9244896ad60f05572a959801\"],\"id\":72,\"jsonrpc\":\"2.0\"}","requestMethod":"POST","url":"https://rpc-amoy.polygon.technology/"}, method="sendTransaction", transaction="0x02f8b583013882808506fc23ac00850df8475800830111709449fc118e0c9931f8b287292b2e61b571651f01ec80b844095ea7b3000000000000000000000000f471af2aff654a07cd9f55b6cfa22dd019fbafefffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc001a05657142d1cf0ed30b41c6d0f2d363837c3133e46c21016af8319bf4c81df09f4a0766e85c5b993b4c1adaf708e285b6c9c0df46a8f9244896ad60f05572a959801", code=INSUFFICIENT_FUNDS, version=providers/5.8.0) 
+Error: insufficient funds for intrinsic transaction cost [ See: https://links.ethers.org/v5-errors-INSUFFICIENT_FUNDS ] (error={"reason":"processing response error","code":"SERVER_ERROR","body":"{\"jsonrpc\":\"2.0\",\"id\":72,\"error\":{\"code\":-32000,\"message\":\"insufficient funds for gas * price + value: balance 0, tx cost 4200000000000000, overshot 4200000000000000\"}}\n","error":{"code":-32000},"requestBody":"{\"method\":\"eth_sendRawTransaction\",\"params\":[\"0x02f8b583013882808506fc23ac00850df8475800830111709449fc118e0c9931f8b287292b2e61b571651f01ec80b844095ea7b3000000000000000000000000f471af2aff654a07cd9f55b6cfa22dd019fbafefffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc001a05657142d1cf0ed30b41c6d0f2d363837c3133e46c21016af8319bf4c81df09f4a0766e85c5b993b4c1adaf708e285b6c9c0df46a8f9244896ad60f05572a959801\"],\"id\":72,\"jsonrpc\":\"2.0\"}","requestMethod":"POST","url":"https://rpc-amoy.polygon.technology/"}, method="sendTransaction", transaction="0x02f8b583013882808506fc23ac00850df8475800830111709449fc118e0c9931f8b287292b2e61b571651f01ec80b844095ea7b3000000000000000000000000f471af2aff654a07cd9f55b6cfa22dd019fbafefffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc001a05657142d1cf0ed30b41c6d0f2d363837c3133e46c21016af8319bf4c81df09f4a0766e85c5b993b4c1adaf708e285b6c9c0df46a8f9244896ad60f05572a959801", code=INSUFFICIENT_FUNDS, version=providers/5.8.0)
+    at Logger.makeError (M:\Desktop\CamAppServer\node_modules\@ethersproject\logger\lib\index.js:238:21)
+    at Logger.throwError (M:\Desktop\CamAppServer\node_modules\@ethersproject\logger\lib\index.js:247:20)
+    at checkError (M:\Desktop\CamAppServer\node_modules\@ethersproject\providers\lib\json-rpc-provider.js:144:16)
+    at JsonRpcProvider.<anonymous> (M:\Desktop\CamAppServer\node_modules\@ethersproject\providers\lib\json-rpc-provider.js:751:47)
+    at step (M:\Desktop\CamAppServer\node_modules\@ethersproject\providers\lib\json-rpc-provider.js:48:23)
+    at Object.throw (M:\Desktop\CamAppServer\node_modules\@ethersproject\providers\lib\json-rpc-provider.js:29:53)
+    at rejected (M:\Desktop\CamAppServer\node_modules\@ethersproject\providers\lib\json-rpc-provider.js:21:65)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-08-21 02:46:12 info: Pool Event: A client connected successfully! 
+2025-08-21 07:51:35 info: Pool Event: A client connected successfully! 
+2025-08-21 07:51:35 info: User logged in: seller@example.com 
+2025-08-21 08:01:40 info: Pool Event: A client connected successfully! 
+2025-08-21 08:01:51 info: Pool Event: A client connected successfully! 
+2025-08-21 08:01:51 error: jwt expired 
+TokenExpiredError: jwt expired
+    at M:\Desktop\CamAppServer\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (M:\Desktop\CamAppServer\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (M:\Desktop\CamAppServer\node_modules\jsonwebtoken\verify.js:101:10)
+    at authenticateToken (M:\Desktop\CamAppServer\src\middleware\authenticateToken.js:16:9)
+    at Layer.handle [as handle_request] (M:\Desktop\CamAppServer\node_modules\express\lib\router\layer.js:95:5)
+    at next (M:\Desktop\CamAppServer\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (M:\Desktop\CamAppServer\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (M:\Desktop\CamAppServer\node_modules\express\lib\router\layer.js:95:5)
+    at M:\Desktop\CamAppServer\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (M:\Desktop\CamAppServer\node_modules\express\lib\router\index.js:346:12)
+2025-08-21 08:02:01 info: User logged in: buyer_run17@example.com 
+2025-08-21 08:02:22 info: Pool Event: A client connected successfully! 
+2025-08-21 08:02:22 info: Bid added to DB for auction_contract_id 20 by bidder 47. 
+2025-08-21 08:02:22 info: Listing with auction_contract_id 20 highest bid updated in DB. 
+2025-08-21 08:05:07 info: Pool Event: A client connected successfully! 
+2025-08-21 12:58:23 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-21 12:58:23 info: Contracts (from blockchain.js): 
+2025-08-21 12:58:23 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-21 12:58:23 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-21 12:58:23 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-21 12:58:23 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-21 12:58:23 info: Pool Event: A client connected successfully! 
+2025-08-21 12:58:23 info: Successfully connected to the PostgreSQL database! 
+2025-08-21 12:58:23 info: Dummy query result (current DB time): 
+2025-08-21 12:58:45 info: Pool Event: A client connected successfully! 
+2025-08-21 12:58:45 info: Created custodial wallet: 0x807D5CC76667340Bd7BBAD3261A81e7c312aCeEb 
+2025-08-21 12:58:45 info: User created with ID: 48, Email: seller_run18@example.com 
+2025-08-21 12:58:55 info: User logged in: seller_run18@example.com 
+2025-08-21 12:59:45 info: Pool Event: A client connected successfully! 
+2025-08-21 12:59:48 error: Error in /create-profile endpoint: Wallet has 0 POL. Cannot pay for gas. 
+Error: Wallet has 0 POL. Cannot pay for gas.
+    at createBlockchainProfile (M:\Desktop\CamAppServer\src\services\blockchain.js:111:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async M:\Desktop\CamAppServer\src\routes\nft.js:73:20
+2025-08-21 13:01:13 info: Pool Event: A client connected successfully! 
+2025-08-21 13:01:20 error: Error in /admin/mint-nft endpoint: 
+2025-08-21 13:09:54 error: jwt expired 
+TokenExpiredError: jwt expired
+    at M:\Desktop\CamAppServer\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (M:\Desktop\CamAppServer\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (M:\Desktop\CamAppServer\node_modules\jsonwebtoken\verify.js:101:10)
+    at authenticateToken (M:\Desktop\CamAppServer\src\middleware\authenticateToken.js:16:9)
+    at Layer.handle [as handle_request] (M:\Desktop\CamAppServer\node_modules\express\lib\router\layer.js:95:5)
+    at next (M:\Desktop\CamAppServer\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (M:\Desktop\CamAppServer\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (M:\Desktop\CamAppServer\node_modules\express\lib\router\layer.js:95:5)
+    at M:\Desktop\CamAppServer\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (M:\Desktop\CamAppServer\node_modules\express\lib\router\index.js:346:12)
+2025-08-21 13:10:08 info: Pool Event: A client connected successfully! 
+2025-08-21 13:10:08 info: User logged in: seller_run17@example.com 
+2025-08-21 13:10:46 info: Pool Event: A client connected successfully! 
+2025-08-21 13:10:53 error: Error in /approve-listing endpoint: transaction failed [ See: https://links.ethers.org/v5-errors-CALL_EXCEPTION ] (transactionHash="0x31842ea0353b6416b49f6f4d5e4581b47fb797cc424c3460f7cc915713c2d831", transaction={"type":2,"chainId":80002,"nonce":6,"maxPriorityFeePerGas":{"type":"BigNumber","hex":"0x06fc23ac00"},"maxFeePerGas":{"type":"BigNumber","hex":"0x0ba43b7400"},"gasPrice":null,"gasLimit":{"type":"BigNumber","hex":"0x0249f0"},"to":"0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF","value":{"type":"BigNumber","hex":"0x00"},"data":"0x095ea7b3000000000000000000000000f471af2aff654a07cd9f55b6cfa22dd019fbafef0000000000000000000000000000000000000000000000000000000000000020","accessList":[],"hash":"0x31842ea0353b6416b49f6f4d5e4581b47fb797cc424c3460f7cc915713c2d831","v":0,"r":"0x1aae07b006c1d3d8c894239fd18dec7e733228b1c61a45c90a1bbc87097a0b03","s":"0x3e95680ff7cdc70b5eabcd90ecf0214b0b1a3833320c7391e31534608d2eaf24","from":"0x9212cA60F8cB3B46E6DeD0965d5cd392C9f75958","confirmations":0}, receipt={"to":"0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF","from":"0x9212cA60F8cB3B46E6DeD0965d5cd392C9f75958","contractAddress":null,"transactionIndex":1,"gasUsed":{"type":"BigNumber","hex":"0x7af3"},"logsBloom":"0x00000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000008000000000000000000000000000000000000000000000000000000000800000000000000000000100000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000000000000000000000000000000000000010000000000000200000000000000000000000000000000000000000000000000000000000004000000000000000000001000001000400000000000000000000100000000000000000000000020000000000040000000000000000000000000000000000100000","blockHash":"0x8b49903e93e47b1019e9269b7518693ee1d0900bce5c1e2d9889eb849bb77d80","transactionHash":"0x31842ea0353b6416b49f6f4d5e4581b47fb797cc424c3460f7cc915713c2d831","logs":[{"transactionIndex":1,"blockNumber":25436592,"transactionHash":"0x31842ea0353b6416b49f6f4d5e4581b47fb797cc424c3460f7cc915713c2d831","address":"0x0000000000000000000000000000000000001010","topics":["0x4dfe1bbbcf077ddc3e01291eea2d5c70c2b422b415d95645b9adcfd678cb1d63","0x0000000000000000000000000000000000000000000000000000000000001010","0x0000000000000000000000009212ca60f8cb3b46e6ded0965d5cd392c9f75958","0x00000000000000000000000085ebd6dc97d56f62e371382b38eae91f3bb4ecb2"],"data":"0x00000000000000000000000000000000000000000000000000035aca55d44400000000000000000000000000000000000000000000000000012a3299fa0c32460000000000000000000000000000000000000000000001a5ae34154f0e55f0760000000000000000000000000000000000000000000000000126d7cfa437ee460000000000000000000000000000000000000000000001a5ae377019642a3476","logIndex":1,"blockHash":"0x8b49903e93e47b1019e9269b7518693ee1d0900bce5c1e2d9889eb849bb77d80"}],"blockNumber":25436592,"confirmations":1,"cumulativeGasUsed":{"type":"BigNumber","hex":"0xf7df"},"effectiveGasPrice":{"type":"BigNumber","hex":"0x06fc23ac3f"},"status":0,"type":2,"byzantium":true}, code=CALL_EXCEPTION, version=providers/5.8.0) 
+Error: transaction failed [ See: https://links.ethers.org/v5-errors-CALL_EXCEPTION ] (transactionHash="0x31842ea0353b6416b49f6f4d5e4581b47fb797cc424c3460f7cc915713c2d831", transaction={"type":2,"chainId":80002,"nonce":6,"maxPriorityFeePerGas":{"type":"BigNumber","hex":"0x06fc23ac00"},"maxFeePerGas":{"type":"BigNumber","hex":"0x0ba43b7400"},"gasPrice":null,"gasLimit":{"type":"BigNumber","hex":"0x0249f0"},"to":"0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF","value":{"type":"BigNumber","hex":"0x00"},"data":"0x095ea7b3000000000000000000000000f471af2aff654a07cd9f55b6cfa22dd019fbafef0000000000000000000000000000000000000000000000000000000000000020","accessList":[],"hash":"0x31842ea0353b6416b49f6f4d5e4581b47fb797cc424c3460f7cc915713c2d831","v":0,"r":"0x1aae07b006c1d3d8c894239fd18dec7e733228b1c61a45c90a1bbc87097a0b03","s":"0x3e95680ff7cdc70b5eabcd90ecf0214b0b1a3833320c7391e31534608d2eaf24","from":"0x9212cA60F8cB3B46E6DeD0965d5cd392C9f75958","confirmations":0}, receipt={"to":"0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF","from":"0x9212cA60F8cB3B46E6DeD0965d5cd392C9f75958","contractAddress":null,"transactionIndex":1,"gasUsed":{"type":"BigNumber","hex":"0x7af3"},"logsBloom":"0x00000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000008000000000000000000000000000000000000000000000000000000000800000000000000000000100000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000000000000000000000000000000000000010000000000000200000000000000000000000000000000000000000000000000000000000004000000000000000000001000001000400000000000000000000100000000000000000000000020000000000040000000000000000000000000000000000100000","blockHash":"0x8b49903e93e47b1019e9269b7518693ee1d0900bce5c1e2d9889eb849bb77d80","transactionHash":"0x31842ea0353b6416b49f6f4d5e4581b47fb797cc424c3460f7cc915713c2d831","logs":[{"transactionIndex":1,"blockNumber":25436592,"transactionHash":"0x31842ea0353b6416b49f6f4d5e4581b47fb797cc424c3460f7cc915713c2d831","address":"0x0000000000000000000000000000000000001010","topics":["0x4dfe1bbbcf077ddc3e01291eea2d5c70c2b422b415d95645b9adcfd678cb1d63","0x0000000000000000000000000000000000000000000000000000000000001010","0x0000000000000000000000009212ca60f8cb3b46e6ded0965d5cd392c9f75958","0x00000000000000000000000085ebd6dc97d56f62e371382b38eae91f3bb4ecb2"],"data":"0x00000000000000000000000000000000000000000000000000035aca55d44400000000000000000000000000000000000000000000000000012a3299fa0c32460000000000000000000000000000000000000000000001a5ae34154f0e55f0760000000000000000000000000000000000000000000000000126d7cfa437ee460000000000000000000000000000000000000000000001a5ae377019642a3476","logIndex":1,"blockHash":"0x8b49903e93e47b1019e9269b7518693ee1d0900bce5c1e2d9889eb849bb77d80"}],"blockNumber":25436592,"confirmations":1,"cumulativeGasUsed":{"type":"BigNumber","hex":"0xf7df"},"effectiveGasPrice":{"type":"BigNumber","hex":"0x06fc23ac3f"},"status":0,"type":2,"byzantium":true}, code=CALL_EXCEPTION, version=providers/5.8.0)
+    at Logger.makeError (M:\Desktop\CamAppServer\node_modules\@ethersproject\logger\lib\index.js:238:21)
+    at Logger.throwError (M:\Desktop\CamAppServer\node_modules\@ethersproject\logger\lib\index.js:247:20)
+    at JsonRpcProvider.<anonymous> (M:\Desktop\CamAppServer\node_modules\@ethersproject\providers\lib\base-provider.js:1693:36)
+    at step (M:\Desktop\CamAppServer\node_modules\@ethersproject\providers\lib\base-provider.js:48:23)
+    at Object.next (M:\Desktop\CamAppServer\node_modules\@ethersproject\providers\lib\base-provider.js:29:53)
+    at fulfilled (M:\Desktop\CamAppServer\node_modules\@ethersproject\providers\lib\base-provider.js:20:58)
+2025-08-21 14:07:05 info: Pool Event: A client connected successfully! 
+2025-08-21 14:07:05 info: User logged in: seller_run17@example.com 
+2025-08-21 14:07:49 info: Pool Event: A client connected successfully! 
+2025-08-21 14:07:51 error: Error in createBlockchainProfile for seller_run17_item: transaction failed [ See: https://links.ethers.org/v5-errors-CALL_EXCEPTION ] (transactionHash="0xbf4312433de0ed4d3edbd6474d53359278cde1d680e98d246065eb5bc9f0cd3c", transaction={"type":2,"chainId":80002,"nonce":7,"maxPriorityFeePerGas":{"type":"BigNumber","hex":"0x06fc23ac00"},"maxFeePerGas":{"type":"BigNumber","hex":"0x0df8475800"},"gasPrice":null,"gasLimit":{"type":"BigNumber","hex":"0x0493e0"},"to":"0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF","value":{"type":"BigNumber","hex":"0x00"},"data":"0xba1feb8a00000000000000000000000000000000000000000000000000000000000000400000000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000000000000000000000000000000000001173656c6c65725f72756e31375f6974656d0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000035697066733a2f2f516d61356d58345a774374376e7750476e425a374144567a68316362796676524454766a62725a5432734b6246570000000000000000000000","accessList":[],"hash":"0xbf4312433de0ed4d3edbd6474d53359278cde1d680e98d246065eb5bc9f0cd3c","v":1,"r":"0x2b579e022f95292ddda4e95eaaaabea00c69b30bf906d8dc1a755698adc25949","s":"0x526ab5128e5c9d0fdc509a0e970f8946c01d74c1c3e75f192061fedcb6d84db6","from":"0x9212cA60F8cB3B46E6DeD0965d5cd392C9f75958","confirmations":0}, receipt={"to":"0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF","from":"0x9212cA60F8cB3B46E6DeD0965d5cd392C9f75958","contractAddress":null,"transactionIndex":0,"gasUsed":{"type":"BigNumber","hex":"0x82a3"},"logsBloom":"0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000000000000000000000000000000800000000000000000000100080000000000000000000000000000000000000000000000000000000080000000000000020000000000000000000000000040000000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000004000000000000000000001000001000400000000000000000000100000000000000000000000000000000000040000000000000000000000000000000000100000","blockHash":"0x8405a679ac9eb98898214a23917560e406d26af58985f4962a72168b812e7ea5","transactionHash":"0xbf4312433de0ed4d3edbd6474d53359278cde1d680e98d246065eb5bc9f0cd3c","logs":[{"transactionIndex":0,"blockNumber":25438202,"transactionHash":"0xbf4312433de0ed4d3edbd6474d53359278cde1d680e98d246065eb5bc9f0cd3c","address":"0x0000000000000000000000000000000000001010","topics":["0x4dfe1bbbcf077ddc3e01291eea2d5c70c2b422b415d95645b9adcfd678cb1d63","0x0000000000000000000000000000000000000000000000000000000000001010","0x0000000000000000000000009212ca60f8cb3b46e6ded0965d5cd392c9f75958","0x0000000000000000000000006dc2dd54f24979ec26212794c71afefed722280c"],"data":"0x0000000000000000000000000000000000000000000000000003907ca80e84000000000000000000000000000000000000000000000000000126d7cfa419ac7900000000000000000000000000000000000000000000091f8098c4d6e54a15ff00000000000000000000000000000000000000000000000001234752fc0b287900000000000000000000000000000000000000000000091f809c55538d5899ff","logIndex":0,"blockHash":"0x8405a679ac9eb98898214a23917560e406d26af58985f4962a72168b812e7ea5"}],"blockNumber":25438202,"confirmations":1,"cumulativeGasUsed":{"type":"BigNumber","hex":"0x82a3"},"effectiveGasPrice":{"type":"BigNumber","hex":"0x06fc23ac3f"},"status":0,"type":2,"byzantium":true}, code=CALL_EXCEPTION, version=providers/5.8.0) 
+Error: transaction failed [ See: https://links.ethers.org/v5-errors-CALL_EXCEPTION ] (transactionHash="0xbf4312433de0ed4d3edbd6474d53359278cde1d680e98d246065eb5bc9f0cd3c", transaction={"type":2,"chainId":80002,"nonce":7,"maxPriorityFeePerGas":{"type":"BigNumber","hex":"0x06fc23ac00"},"maxFeePerGas":{"type":"BigNumber","hex":"0x0df8475800"},"gasPrice":null,"gasLimit":{"type":"BigNumber","hex":"0x0493e0"},"to":"0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF","value":{"type":"BigNumber","hex":"0x00"},"data":"0xba1feb8a00000000000000000000000000000000000000000000000000000000000000400000000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000000000000000000000000000000000001173656c6c65725f72756e31375f6974656d0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000035697066733a2f2f516d61356d58345a774374376e7750476e425a374144567a68316362796676524454766a62725a5432734b6246570000000000000000000000","accessList":[],"hash":"0xbf4312433de0ed4d3edbd6474d53359278cde1d680e98d246065eb5bc9f0cd3c","v":1,"r":"0x2b579e022f95292ddda4e95eaaaabea00c69b30bf906d8dc1a755698adc25949","s":"0x526ab5128e5c9d0fdc509a0e970f8946c01d74c1c3e75f192061fedcb6d84db6","from":"0x9212cA60F8cB3B46E6DeD0965d5cd392C9f75958","confirmations":0}, receipt={"to":"0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF","from":"0x9212cA60F8cB3B46E6DeD0965d5cd392C9f75958","contractAddress":null,"transactionIndex":0,"gasUsed":{"type":"BigNumber","hex":"0x82a3"},"logsBloom":"0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000000000000000000000000000000800000000000000000000100080000000000000000000000000000000000000000000000000000000080000000000000020000000000000000000000000040000000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000004000000000000000000001000001000400000000000000000000100000000000000000000000000000000000040000000000000000000000000000000000100000","blockHash":"0x8405a679ac9eb98898214a23917560e406d26af58985f4962a72168b812e7ea5","transactionHash":"0xbf4312433de0ed4d3edbd6474d53359278cde1d680e98d246065eb5bc9f0cd3c","logs":[{"transactionIndex":0,"blockNumber":25438202,"transactionHash":"0xbf4312433de0ed4d3edbd6474d53359278cde1d680e98d246065eb5bc9f0cd3c","address":"0x0000000000000000000000000000000000001010","topics":["0x4dfe1bbbcf077ddc3e01291eea2d5c70c2b422b415d95645b9adcfd678cb1d63","0x0000000000000000000000000000000000000000000000000000000000001010","0x0000000000000000000000009212ca60f8cb3b46e6ded0965d5cd392c9f75958","0x0000000000000000000000006dc2dd54f24979ec26212794c71afefed722280c"],"data":"0x0000000000000000000000000000000000000000000000000003907ca80e84000000000000000000000000000000000000000000000000000126d7cfa419ac7900000000000000000000000000000000000000000000091f8098c4d6e54a15ff00000000000000000000000000000000000000000000000001234752fc0b287900000000000000000000000000000000000000000000091f809c55538d5899ff","logIndex":0,"blockHash":"0x8405a679ac9eb98898214a23917560e406d26af58985f4962a72168b812e7ea5"}],"blockNumber":25438202,"confirmations":1,"cumulativeGasUsed":{"type":"BigNumber","hex":"0x82a3"},"effectiveGasPrice":{"type":"BigNumber","hex":"0x06fc23ac3f"},"status":0,"type":2,"byzantium":true}, code=CALL_EXCEPTION, version=providers/5.8.0)
+    at Logger.makeError (M:\Desktop\CamAppServer\node_modules\@ethersproject\logger\lib\index.js:238:21)
+    at Logger.throwError (M:\Desktop\CamAppServer\node_modules\@ethersproject\logger\lib\index.js:247:20)
+    at JsonRpcProvider.<anonymous> (M:\Desktop\CamAppServer\node_modules\@ethersproject\providers\lib\base-provider.js:1693:36)
+    at step (M:\Desktop\CamAppServer\node_modules\@ethersproject\providers\lib\base-provider.js:48:23)
+    at Object.next (M:\Desktop\CamAppServer\node_modules\@ethersproject\providers\lib\base-provider.js:29:53)
+    at fulfilled (M:\Desktop\CamAppServer\node_modules\@ethersproject\providers\lib\base-provider.js:20:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-08-21 14:07:51 error: Error in /create-profile endpoint: transaction failed [ See: https://links.ethers.org/v5-errors-CALL_EXCEPTION ] (transactionHash="0xbf4312433de0ed4d3edbd6474d53359278cde1d680e98d246065eb5bc9f0cd3c", transaction={"type":2,"chainId":80002,"nonce":7,"maxPriorityFeePerGas":{"type":"BigNumber","hex":"0x06fc23ac00"},"maxFeePerGas":{"type":"BigNumber","hex":"0x0df8475800"},"gasPrice":null,"gasLimit":{"type":"BigNumber","hex":"0x0493e0"},"to":"0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF","value":{"type":"BigNumber","hex":"0x00"},"data":"0xba1feb8a00000000000000000000000000000000000000000000000000000000000000400000000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000000000000000000000000000000000001173656c6c65725f72756e31375f6974656d0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000035697066733a2f2f516d61356d58345a774374376e7750476e425a374144567a68316362796676524454766a62725a5432734b6246570000000000000000000000","accessList":[],"hash":"0xbf4312433de0ed4d3edbd6474d53359278cde1d680e98d246065eb5bc9f0cd3c","v":1,"r":"0x2b579e022f95292ddda4e95eaaaabea00c69b30bf906d8dc1a755698adc25949","s":"0x526ab5128e5c9d0fdc509a0e970f8946c01d74c1c3e75f192061fedcb6d84db6","from":"0x9212cA60F8cB3B46E6DeD0965d5cd392C9f75958","confirmations":0}, receipt={"to":"0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF","from":"0x9212cA60F8cB3B46E6DeD0965d5cd392C9f75958","contractAddress":null,"transactionIndex":0,"gasUsed":{"type":"BigNumber","hex":"0x82a3"},"logsBloom":"0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000000000000000000000000000000800000000000000000000100080000000000000000000000000000000000000000000000000000000080000000000000020000000000000000000000000040000000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000004000000000000000000001000001000400000000000000000000100000000000000000000000000000000000040000000000000000000000000000000000100000","blockHash":"0x8405a679ac9eb98898214a23917560e406d26af58985f4962a72168b812e7ea5","transactionHash":"0xbf4312433de0ed4d3edbd6474d53359278cde1d680e98d246065eb5bc9f0cd3c","logs":[{"transactionIndex":0,"blockNumber":25438202,"transactionHash":"0xbf4312433de0ed4d3edbd6474d53359278cde1d680e98d246065eb5bc9f0cd3c","address":"0x0000000000000000000000000000000000001010","topics":["0x4dfe1bbbcf077ddc3e01291eea2d5c70c2b422b415d95645b9adcfd678cb1d63","0x0000000000000000000000000000000000000000000000000000000000001010","0x0000000000000000000000009212ca60f8cb3b46e6ded0965d5cd392c9f75958","0x0000000000000000000000006dc2dd54f24979ec26212794c71afefed722280c"],"data":"0x0000000000000000000000000000000000000000000000000003907ca80e84000000000000000000000000000000000000000000000000000126d7cfa419ac7900000000000000000000000000000000000000000000091f8098c4d6e54a15ff00000000000000000000000000000000000000000000000001234752fc0b287900000000000000000000000000000000000000000000091f809c55538d5899ff","logIndex":0,"blockHash":"0x8405a679ac9eb98898214a23917560e406d26af58985f4962a72168b812e7ea5"}],"blockNumber":25438202,"confirmations":1,"cumulativeGasUsed":{"type":"BigNumber","hex":"0x82a3"},"effectiveGasPrice":{"type":"BigNumber","hex":"0x06fc23ac3f"},"status":0,"type":2,"byzantium":true}, code=CALL_EXCEPTION, version=providers/5.8.0) 
+Error: transaction failed [ See: https://links.ethers.org/v5-errors-CALL_EXCEPTION ] (transactionHash="0xbf4312433de0ed4d3edbd6474d53359278cde1d680e98d246065eb5bc9f0cd3c", transaction={"type":2,"chainId":80002,"nonce":7,"maxPriorityFeePerGas":{"type":"BigNumber","hex":"0x06fc23ac00"},"maxFeePerGas":{"type":"BigNumber","hex":"0x0df8475800"},"gasPrice":null,"gasLimit":{"type":"BigNumber","hex":"0x0493e0"},"to":"0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF","value":{"type":"BigNumber","hex":"0x00"},"data":"0xba1feb8a00000000000000000000000000000000000000000000000000000000000000400000000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000000000000000000000000000000000001173656c6c65725f72756e31375f6974656d0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000035697066733a2f2f516d61356d58345a774374376e7750476e425a374144567a68316362796676524454766a62725a5432734b6246570000000000000000000000","accessList":[],"hash":"0xbf4312433de0ed4d3edbd6474d53359278cde1d680e98d246065eb5bc9f0cd3c","v":1,"r":"0x2b579e022f95292ddda4e95eaaaabea00c69b30bf906d8dc1a755698adc25949","s":"0x526ab5128e5c9d0fdc509a0e970f8946c01d74c1c3e75f192061fedcb6d84db6","from":"0x9212cA60F8cB3B46E6DeD0965d5cd392C9f75958","confirmations":0}, receipt={"to":"0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF","from":"0x9212cA60F8cB3B46E6DeD0965d5cd392C9f75958","contractAddress":null,"transactionIndex":0,"gasUsed":{"type":"BigNumber","hex":"0x82a3"},"logsBloom":"0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000000000000000000000000000000800000000000000000000100080000000000000000000000000000000000000000000000000000000080000000000000020000000000000000000000000040000000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000004000000000000000000001000001000400000000000000000000100000000000000000000000000000000000040000000000000000000000000000000000100000","blockHash":"0x8405a679ac9eb98898214a23917560e406d26af58985f4962a72168b812e7ea5","transactionHash":"0xbf4312433de0ed4d3edbd6474d53359278cde1d680e98d246065eb5bc9f0cd3c","logs":[{"transactionIndex":0,"blockNumber":25438202,"transactionHash":"0xbf4312433de0ed4d3edbd6474d53359278cde1d680e98d246065eb5bc9f0cd3c","address":"0x0000000000000000000000000000000000001010","topics":["0x4dfe1bbbcf077ddc3e01291eea2d5c70c2b422b415d95645b9adcfd678cb1d63","0x0000000000000000000000000000000000000000000000000000000000001010","0x0000000000000000000000009212ca60f8cb3b46e6ded0965d5cd392c9f75958","0x0000000000000000000000006dc2dd54f24979ec26212794c71afefed722280c"],"data":"0x0000000000000000000000000000000000000000000000000003907ca80e84000000000000000000000000000000000000000000000000000126d7cfa419ac7900000000000000000000000000000000000000000000091f8098c4d6e54a15ff00000000000000000000000000000000000000000000000001234752fc0b287900000000000000000000000000000000000000000000091f809c55538d5899ff","logIndex":0,"blockHash":"0x8405a679ac9eb98898214a23917560e406d26af58985f4962a72168b812e7ea5"}],"blockNumber":25438202,"confirmations":1,"cumulativeGasUsed":{"type":"BigNumber","hex":"0x82a3"},"effectiveGasPrice":{"type":"BigNumber","hex":"0x06fc23ac3f"},"status":0,"type":2,"byzantium":true}, code=CALL_EXCEPTION, version=providers/5.8.0)
+    at Logger.makeError (M:\Desktop\CamAppServer\node_modules\@ethersproject\logger\lib\index.js:238:21)
+    at Logger.throwError (M:\Desktop\CamAppServer\node_modules\@ethersproject\logger\lib\index.js:247:20)
+    at JsonRpcProvider.<anonymous> (M:\Desktop\CamAppServer\node_modules\@ethersproject\providers\lib\base-provider.js:1693:36)
+    at step (M:\Desktop\CamAppServer\node_modules\@ethersproject\providers\lib\base-provider.js:48:23)
+    at Object.next (M:\Desktop\CamAppServer\node_modules\@ethersproject\providers\lib\base-provider.js:29:53)
+    at fulfilled (M:\Desktop\CamAppServer\node_modules\@ethersproject\providers\lib\base-provider.js:20:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-08-21 16:04:40 info: Pool Event: A client connected successfully! 
+2025-08-21 16:04:40 info: Created custodial wallet: 0x4880321c526708d096b5E9a8e2a417c5bdB97b46 
+2025-08-21 16:04:40 info: User created with ID: 49, Email: seller_run19@example.com 
+2025-08-21 16:04:59 info: Pool Event: A client connected successfully! 
+2025-08-21 16:04:59 info: User logged in: seller_run19@example.com 
+2025-08-21 16:38:32 error: jwt expired 
+TokenExpiredError: jwt expired
+    at M:\Desktop\CamAppServer\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (M:\Desktop\CamAppServer\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (M:\Desktop\CamAppServer\node_modules\jsonwebtoken\verify.js:101:10)
+    at authenticateToken (M:\Desktop\CamAppServer\src\middleware\authenticateToken.js:16:9)
+    at Layer.handle [as handle_request] (M:\Desktop\CamAppServer\node_modules\express\lib\router\layer.js:95:5)
+    at next (M:\Desktop\CamAppServer\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (M:\Desktop\CamAppServer\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (M:\Desktop\CamAppServer\node_modules\express\lib\router\layer.js:95:5)
+    at M:\Desktop\CamAppServer\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (M:\Desktop\CamAppServer\node_modules\express\lib\router\index.js:346:12)
+2025-08-21 16:39:38 info: Pool Event: A client connected successfully! 
+2025-08-21 16:39:39 info: User logged in: seller_run19@example.com 
+2025-08-21 16:39:50 info: Pool Event: A client connected successfully! 
+2025-08-21 16:39:53 info: Transaction confirmed. Profile created with tokenId: 33 
+2025-08-21 16:39:53 info: NFT added to DB: Token ID 33, Owner ID 49. 
+2025-08-21 16:39:53 info: Profile NFT 33 for user 49 saved to database. 
+2025-08-21 16:40:16 info: Pool Event: A client connected successfully! 
+2025-08-21 16:40:39 info: Pool Event: A client connected successfully! 
+2025-08-21 16:40:45 info: Initial listing created for NFT 33. 
+2025-08-21 16:40:46 info: Listing 9 updated with auction details. 
+2025-08-21 16:42:09 info: Pool Event: A client connected successfully! 
+2025-08-21 16:42:26 info: Pool Event: A client connected successfully! 
+2025-08-21 16:42:26 error: jwt expired 
+TokenExpiredError: jwt expired
+    at M:\Desktop\CamAppServer\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (M:\Desktop\CamAppServer\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (M:\Desktop\CamAppServer\node_modules\jsonwebtoken\verify.js:101:10)
+    at authenticateToken (M:\Desktop\CamAppServer\src\middleware\authenticateToken.js:16:9)
+    at Layer.handle [as handle_request] (M:\Desktop\CamAppServer\node_modules\express\lib\router\layer.js:95:5)
+    at next (M:\Desktop\CamAppServer\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (M:\Desktop\CamAppServer\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (M:\Desktop\CamAppServer\node_modules\express\lib\router\layer.js:95:5)
+    at M:\Desktop\CamAppServer\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (M:\Desktop\CamAppServer\node_modules\express\lib\router\index.js:346:12)
+2025-08-21 16:42:38 info: User logged in: buyer_run17@example.com 
+2025-08-21 16:47:19 info: Pool Event: A client connected successfully! 
+2025-08-21 16:47:30 info: Pool Event: A client connected successfully! 
+2025-08-21 16:47:53 info: Pool Event: A client connected successfully! 
+2025-08-21 16:47:53 info: User logged in: seller_run19@example.com 
+2025-08-21 17:03:26 info: Pool Event: A client connected successfully! 
+2025-08-21 17:03:43 info: Pool Event: A client connected successfully! 
+2025-08-21 17:03:43 info: User logged in: seller_run19@example.com 
+2025-08-21 17:07:21 info: Pool Event: A client connected successfully! 
+2025-08-21 17:07:35 info: Pool Event: A client connected successfully! 
+2025-08-21 17:07:43 error: Error in updateListingStatusAndWinner(9): 
+2025-08-21 17:07:43 error: API Error ending auction 21: 

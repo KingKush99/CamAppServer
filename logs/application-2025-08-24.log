@@ -1,0 +1,261 @@
+2025-08-24 00:11:20 info: Pool Event: A client connected successfully! 
+2025-08-24 00:11:43 info: Pool Event: A client connected successfully! 
+2025-08-24 00:12:03 info: Pool Event: A client connected successfully! 
+2025-08-24 00:25:55 info: Pool Event: A client connected successfully! 
+2025-08-24 00:25:57 error: Error fetching NFTs for user 52: db.getNftsByOwnerId is not a function 
+TypeError: db.getNftsByOwnerId is not a function
+    at M:\Desktop\CamAppServer\src\routes\userRoutes.js:84:31
+    at Layer.handle [as handle_request] (M:\Desktop\CamAppServer\node_modules\express\lib\router\layer.js:95:5)
+    at next (M:\Desktop\CamAppServer\node_modules\express\lib\router\route.js:149:13)
+    at M:\Desktop\CamAppServer\src\middleware\authenticateToken.js:49:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-08-24 00:25:57 error: Error fetching NFTs for user 52: db.getNftsByOwnerId is not a function 
+TypeError: db.getNftsByOwnerId is not a function
+    at M:\Desktop\CamAppServer\src\routes\userRoutes.js:84:31
+    at Layer.handle [as handle_request] (M:\Desktop\CamAppServer\node_modules\express\lib\router\layer.js:95:5)
+    at next (M:\Desktop\CamAppServer\node_modules\express\lib\router\route.js:149:13)
+    at M:\Desktop\CamAppServer\src\middleware\authenticateToken.js:49:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-08-24 01:26:34 info: Loading user routes... 
+2025-08-24 01:26:35 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-24 01:26:35 info: Contracts (from blockchain.js): 
+2025-08-24 01:26:35 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-24 01:26:35 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-24 01:26:35 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-24 01:26:35 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-24 01:26:35 info: Loaded user routes successfully. 
+2025-08-24 01:26:35 info: Loading nft routes... 
+2025-08-24 01:26:35 info: Loaded nft routes successfully. 
+2025-08-24 01:26:35 info: ✅ Server started successfully on http://localhost:9020 
+2025-08-24 01:26:35 info: Pool Event: A client connected successfully! 
+2025-08-24 01:26:35 info: Successfully connected to the PostgreSQL database! 
+2025-08-24 01:26:35 info: Dummy query result (current DB time): 
+2025-08-24 01:26:43 error: Error in getNftsByOwnerId for owner 52: 
+2025-08-24 01:26:43 error: Error fetching NFTs for user 52: operator does not exist: character varying = numeric 
+error: operator does not exist: character varying = numeric
+    at M:\Desktop\CamAppServer\node_modules\pg\lib\client.js:545:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.getNftsByOwnerId (M:\Desktop\CamAppServer\src\services\db.js:224:24)
+    at async M:\Desktop\CamAppServer\src\routes\userRoutes.js:84:22
+2025-08-24 09:21:30 info: Pool Event: A client connected successfully! 
+2025-08-24 09:34:01 info: Pool Event: A client connected successfully! 
+2025-08-24 16:17:20 info: Loading user routes... 
+2025-08-24 16:17:21 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-24 16:17:21 info: Contracts (from blockchain.js): 
+2025-08-24 16:17:21 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-24 16:17:21 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-24 16:17:21 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-24 16:17:21 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-24 16:17:21 info: Loaded user routes successfully. 
+2025-08-24 16:17:21 info: Loading nft routes... 
+2025-08-24 16:17:21 info: Loaded nft routes successfully. 
+2025-08-24 16:17:21 info: ✅ Server started successfully on http://localhost:9020 
+2025-08-24 16:17:21 info: Pool Event: A client connected successfully! 
+2025-08-24 16:17:21 info: Successfully connected to the PostgreSQL database! 
+2025-08-24 16:17:21 info: Dummy query result (current DB time): 
+2025-08-24 16:26:13 info: Pool Event: A client connected successfully! 
+2025-08-24 16:26:26 info: Pool Event: A client connected successfully! 
+2025-08-24 16:27:47 info: Pool Event: A client connected successfully! 
+2025-08-24 16:44:25 info: Pool Event: A client connected successfully! 
+2025-08-24 16:44:44 info: Pool Event: A client connected successfully! 
+2025-08-24 17:03:24 info: Pool Event: A client connected successfully! 
+2025-08-24 17:03:51 info: Pool Event: A client connected successfully! 
+2025-08-24 17:05:26 info: Pool Event: A client connected successfully! 
+2025-08-24 17:07:10 info: Pool Event: A client connected successfully! 
+2025-08-24 17:08:05 info: Pool Event: A client connected successfully! 
+2025-08-24 17:08:05 error: Error in getNftsByOwnerId for owner 47: 
+2025-08-24 17:08:05 error: Error fetching NFTs for user 47: operator does not exist: character varying = numeric 
+error: operator does not exist: character varying = numeric
+    at M:\Desktop\CamAppServer\node_modules\pg\lib\client.js:545:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.getNftsByOwnerId (M:\Desktop\CamAppServer\src\services\db.js:224:24)
+    at async M:\Desktop\CamAppServer\src\routes\userRoutes.js:84:22
+2025-08-24 17:08:05 error: Error in getNftsByOwnerId for owner 47: 
+2025-08-24 17:08:05 error: Error fetching NFTs for user 47: operator does not exist: character varying = numeric 
+error: operator does not exist: character varying = numeric
+    at M:\Desktop\CamAppServer\node_modules\pg\lib\client.js:545:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.getNftsByOwnerId (M:\Desktop\CamAppServer\src\services\db.js:224:24)
+    at async M:\Desktop\CamAppServer\src\routes\userRoutes.js:84:22
+2025-08-24 17:08:08 error: Error in getNftsByOwnerId for owner 47: 
+2025-08-24 17:08:08 error: Error fetching NFTs for user 47: operator does not exist: character varying = numeric 
+error: operator does not exist: character varying = numeric
+    at M:\Desktop\CamAppServer\node_modules\pg\lib\client.js:545:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.getNftsByOwnerId (M:\Desktop\CamAppServer\src\services\db.js:224:24)
+    at async M:\Desktop\CamAppServer\src\routes\userRoutes.js:84:22
+2025-08-24 17:08:08 error: Error in getNftsByOwnerId for owner 47: 
+2025-08-24 17:08:08 error: Error fetching NFTs for user 47: operator does not exist: character varying = numeric 
+error: operator does not exist: character varying = numeric
+    at M:\Desktop\CamAppServer\node_modules\pg\lib\client.js:545:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.getNftsByOwnerId (M:\Desktop\CamAppServer\src\services\db.js:224:24)
+    at async M:\Desktop\CamAppServer\src\routes\userRoutes.js:84:22
+2025-08-24 17:14:27 info: Pool Event: A client connected successfully! 
+2025-08-24 17:14:27 info: Pool Event: A client connected successfully! 
+2025-08-24 17:14:27 error: Error in getNftsByOwnerId for owner 47: 
+2025-08-24 17:14:27 error: Error fetching NFTs for user 47: operator does not exist: character varying = numeric 
+error: operator does not exist: character varying = numeric
+    at M:\Desktop\CamAppServer\node_modules\pg\lib\client.js:545:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.getNftsByOwnerId (M:\Desktop\CamAppServer\src\services\db.js:224:24)
+    at async M:\Desktop\CamAppServer\src\routes\userRoutes.js:84:22
+2025-08-24 17:14:27 error: Error in getNftsByOwnerId for owner 47: 
+2025-08-24 17:14:27 error: Error fetching NFTs for user 47: operator does not exist: character varying = numeric 
+error: operator does not exist: character varying = numeric
+    at M:\Desktop\CamAppServer\node_modules\pg\lib\client.js:545:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.getNftsByOwnerId (M:\Desktop\CamAppServer\src\services\db.js:224:24)
+    at async M:\Desktop\CamAppServer\src\routes\userRoutes.js:84:22
+2025-08-24 17:26:34 info: Loading user routes... 
+2025-08-24 17:26:34 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-24 17:26:34 info: Contracts (from blockchain.js): 
+2025-08-24 17:26:34 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-24 17:26:34 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-24 17:26:34 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-24 17:26:34 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-24 17:26:34 info: Loaded user routes successfully. 
+2025-08-24 17:26:34 info: Loading nft routes... 
+2025-08-24 17:26:34 info: Loaded nft routes successfully. 
+2025-08-24 17:26:34 info: ✅ Server started successfully on http://localhost:9020 
+2025-08-24 17:26:34 info: Pool Event: A client connected successfully! 
+2025-08-24 17:26:34 info: Successfully connected to the PostgreSQL database! 
+2025-08-24 17:26:34 info: Dummy query result (current DB time): 
+2025-08-24 17:26:41 info: Pool Event: A client connected successfully! 
+2025-08-24 17:26:41 error: Error in getNftsByOwnerId for owner 47: 
+2025-08-24 17:26:41 error: Error fetching NFTs for user 47: operator does not exist: character varying = numeric 
+error: operator does not exist: character varying = numeric
+    at M:\Desktop\CamAppServer\node_modules\pg\lib\client.js:545:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.getNftsByOwnerId (M:\Desktop\CamAppServer\src\services\db.js:224:24)
+    at async M:\Desktop\CamAppServer\src\routes\userRoutes.js:84:22
+2025-08-24 17:26:41 error: Error in getNftsByOwnerId for owner 47: 
+2025-08-24 17:26:41 error: Error fetching NFTs for user 47: operator does not exist: character varying = numeric 
+error: operator does not exist: character varying = numeric
+    at M:\Desktop\CamAppServer\node_modules\pg\lib\client.js:545:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.getNftsByOwnerId (M:\Desktop\CamAppServer\src\services\db.js:224:24)
+    at async M:\Desktop\CamAppServer\src\routes\userRoutes.js:84:22
+2025-08-24 17:46:23 info: Loading user routes... 
+2025-08-24 17:46:23 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-24 17:46:24 info: Contracts (from blockchain.js): 
+2025-08-24 17:46:24 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-24 17:46:24 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-24 17:46:24 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-24 17:46:24 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-24 17:46:24 info: Loaded user routes successfully. 
+2025-08-24 17:46:24 info: Loading nft routes... 
+2025-08-24 17:46:24 info: Loaded nft routes successfully. 
+2025-08-24 17:46:24 info: ✅ Server started successfully on http://localhost:9020 
+2025-08-24 17:46:24 info: Pool Event: A client connected successfully! 
+2025-08-24 17:46:24 info: Successfully connected to the PostgreSQL database! 
+2025-08-24 17:46:24 info: Dummy query result (current DB time): 
+2025-08-24 17:46:29 error: Database error in getNftsByOwnerId for owner 47: 
+2025-08-24 17:46:29 error: Error fetching NFTs for user 47: column "metadata_url" does not exist 
+error: column "metadata_url" does not exist
+    at M:\Desktop\CamAppServer\node_modules\pg\lib\client.js:545:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.getNftsByOwnerId (M:\Desktop\CamAppServer\src\services\db.js:229:24)
+    at async M:\Desktop\CamAppServer\src\routes\userRoutes.js:84:22
+2025-08-24 17:46:29 error: Database error in getNftsByOwnerId for owner 47: 
+2025-08-24 17:46:29 error: Error fetching NFTs for user 47: column "metadata_url" does not exist 
+error: column "metadata_url" does not exist
+    at M:\Desktop\CamAppServer\node_modules\pg\lib\client.js:545:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.getNftsByOwnerId (M:\Desktop\CamAppServer\src\services\db.js:229:24)
+    at async M:\Desktop\CamAppServer\src\routes\userRoutes.js:84:22
+2025-08-24 17:46:29 info: Pool Event: A client connected successfully! 
+2025-08-24 17:48:18 info: Loading user routes... 
+2025-08-24 17:48:18 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-24 17:48:18 info: Contracts (from blockchain.js): 
+2025-08-24 17:48:18 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-24 17:48:18 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-24 17:48:18 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-24 17:48:18 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-24 17:48:18 info: Loaded user routes successfully. 
+2025-08-24 17:48:18 info: Loading nft routes... 
+2025-08-24 17:48:18 info: Loaded nft routes successfully. 
+2025-08-24 17:48:18 info: ✅ Server started successfully on http://localhost:9020 
+2025-08-24 17:48:18 info: Pool Event: A client connected successfully! 
+2025-08-24 17:48:18 info: Successfully connected to the PostgreSQL database! 
+2025-08-24 17:48:18 info: Dummy query result (current DB time): 
+2025-08-24 17:48:24 error: Database error in getNftsByOwnerId for owner 47: 
+2025-08-24 17:48:24 error: Error fetching NFTs for user 47: column "metadata_url" does not exist 
+error: column "metadata_url" does not exist
+    at M:\Desktop\CamAppServer\node_modules\pg\lib\client.js:545:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.getNftsByOwnerId (M:\Desktop\CamAppServer\src\services\db.js:229:24)
+    at async M:\Desktop\CamAppServer\src\routes\userRoutes.js:84:22
+2025-08-24 17:48:24 error: Database error in getNftsByOwnerId for owner 47: 
+2025-08-24 17:48:24 error: Error fetching NFTs for user 47: column "metadata_url" does not exist 
+error: column "metadata_url" does not exist
+    at M:\Desktop\CamAppServer\node_modules\pg\lib\client.js:545:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.getNftsByOwnerId (M:\Desktop\CamAppServer\src\services\db.js:229:24)
+    at async M:\Desktop\CamAppServer\src\routes\userRoutes.js:84:22
+2025-08-24 17:48:24 info: Pool Event: A client connected successfully! 
+2025-08-24 17:59:09 info: Loading user routes... 
+2025-08-24 17:59:10 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-24 17:59:10 info: Contracts (from blockchain.js): 
+2025-08-24 17:59:10 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-24 17:59:10 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-24 17:59:10 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-24 17:59:10 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-24 17:59:10 info: Loaded user routes successfully. 
+2025-08-24 17:59:10 info: Loading nft routes... 
+2025-08-24 17:59:10 info: Loaded nft routes successfully. 
+2025-08-24 17:59:10 info: ✅ Server started successfully on http://localhost:9020 
+2025-08-24 17:59:10 info: Pool Event: A client connected successfully! 
+2025-08-24 17:59:10 info: Successfully connected to the PostgreSQL database! 
+2025-08-24 17:59:10 info: Dummy query result (current DB time): 
+2025-08-24 17:59:13 info: Pool Event: A client connected successfully! 
+2025-08-24 18:24:49 info: Created custodial wallet: 0x929b648D44753c1Ff80F87Bd73AB1B579E920FbC 
+2025-08-24 18:24:49 info: Pool Event: A client connected successfully! 
+2025-08-24 18:24:49 info: User created with ID: 55, Email: final_seller11@example.com 
+2025-08-24 18:25:04 info: Pool Event: A client connected successfully! 
+2025-08-24 18:25:20 info: Pool Event: A client connected successfully! 
+2025-08-24 18:32:18 info: Created custodial wallet: 0xA268ac3E2b7265EE870F15181b75470Ea8CBd4b0 
+2025-08-24 18:32:18 info: Pool Event: A client connected successfully! 
+2025-08-24 18:32:18 info: User created with ID: 56, Email: final_buyer11@example.com 
+2025-08-24 18:32:36 info: Pool Event: A client connected successfully! 
+2025-08-24 21:10:39 info: Pool Event: A client connected successfully! 
+2025-08-24 21:20:36 info: Loading user routes... 
+2025-08-24 21:20:36 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-24 21:20:36 info: Contracts (from blockchain.js): 
+2025-08-24 21:20:36 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-24 21:20:36 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-24 21:20:36 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-24 21:20:36 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-24 21:20:36 info: Loaded user routes successfully. 
+2025-08-24 21:20:36 info: Loading nft routes... 
+2025-08-24 21:20:36 info: Loaded nft routes successfully. 
+2025-08-24 21:20:36 info: ✅ Server started successfully on http://localhost:9020 
+2025-08-24 21:20:36 info: Pool Event: A client connected successfully! 
+2025-08-24 21:20:36 info: Successfully connected to the PostgreSQL database! 
+2025-08-24 21:20:36 info: Dummy query result (current DB time): 
+2025-08-24 21:21:11 info: Pool Event: A client connected successfully! 
+2025-08-24 21:21:28 info: Pool Event: A client connected successfully! 
+2025-08-24 21:21:40 info: Pool Event: A client connected successfully! 
+2025-08-24 21:22:15 info: Pool Event: A client connected successfully! 
+2025-08-24 21:24:35 info: Pool Event: A client connected successfully! 
+2025-08-24 21:29:50 info: Pool Event: A client connected successfully! 
+2025-08-24 22:21:42 info: Pool Event: A client connected successfully! 
+2025-08-24 22:25:02 info: Pool Event: A client connected successfully! 
+2025-08-24 22:25:02 warn: Admin access DENIED for user ID: 7 (role: undefined) 
+2025-08-24 23:26:20 info: Loading user routes... 
+2025-08-24 23:26:20 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-24 23:26:20 info: Contracts (from blockchain.js): 
+2025-08-24 23:26:20 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-24 23:26:20 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-24 23:26:20 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-24 23:26:20 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-24 23:26:20 info: Loaded user routes successfully. 
+2025-08-24 23:26:20 info: Loading nft routes... 
+2025-08-24 23:26:20 info: Loaded nft routes successfully. 
+2025-08-24 23:26:20 info: ✅ Server started successfully on http://localhost:9020 
+2025-08-24 23:26:20 info: Pool Event: A client connected successfully! 
+2025-08-24 23:26:20 info: Successfully connected to the PostgreSQL database! 
+2025-08-24 23:26:20 info: Dummy query result (current DB time): 
+2025-08-24 23:29:07 info: Pool Event: A client connected successfully! 
+2025-08-24 23:31:35 info: Pool Event: A client connected successfully! 
+2025-08-24 23:31:35 warn: Admin access DENIED for user ID: 7 (role: undefined) 

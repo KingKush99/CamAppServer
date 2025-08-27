@@ -1,0 +1,74 @@
+2025-08-13 02:16:37 info: Contracts: 
+2025-08-13 02:16:37 info: NOVA   : 
+2025-08-13 02:16:37 info: Profiles: 
+2025-08-13 02:16:37 info: Auction : 
+2025-08-13 02:16:37 info: OfferBk : 
+2025-08-13 03:02:11 info: Contracts: 
+2025-08-13 03:02:11 info: NOVA   : 
+2025-08-13 03:02:11 info: Profiles: 
+2025-08-13 03:02:11 info: Auction : 
+2025-08-13 03:02:11 info: OfferBk : 
+2025-08-13 03:04:10 info: Contracts: 
+2025-08-13 03:04:10 info: NOVA   : 
+2025-08-13 03:04:10 info: Profiles: 
+2025-08-13 03:04:10 info: Auction : 
+2025-08-13 03:04:10 info: OfferBk : 
+2025-08-13 03:05:56 info: Contracts: 
+2025-08-13 03:05:56 info: NOVA   : 
+2025-08-13 03:05:56 info: Profiles: 
+2025-08-13 03:05:56 info: Auction : 
+2025-08-13 03:05:56 info: OfferBk : 
+2025-08-13 03:07:56 info: Contracts: 
+2025-08-13 03:07:56 info: NOVA   : 
+2025-08-13 03:07:56 info: Profiles: 
+2025-08-13 03:07:56 info: Auction : 
+2025-08-13 03:07:56 info: OfferBk : 
+2025-08-13 03:10:45 info: Contracts: 
+2025-08-13 03:10:45 info: NOVA   : 
+2025-08-13 03:10:45 info: Profiles: 
+2025-08-13 03:10:45 info: Auction : 
+2025-08-13 03:10:45 info: OfferBk : 
+2025-08-13 04:25:38 info: Contracts: 
+2025-08-13 04:25:38 info: NOVA   : 
+2025-08-13 04:25:38 info: Profiles: 
+2025-08-13 04:25:38 info: Auction : 
+2025-08-13 04:25:38 info: OfferBk : 
+2025-08-13 04:27:27 info: Contracts: 
+2025-08-13 04:27:27 info: NOVA   : 
+2025-08-13 04:27:27 info: Profiles: 
+2025-08-13 04:27:27 info: Auction : 
+2025-08-13 04:27:27 info: OfferBk : 
+2025-08-13 04:28:31 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-13 04:28:31 info: Contracts (from blockchain.js): 
+2025-08-13 04:28:31 info: NOVA   : 
+2025-08-13 04:28:31 info: Profiles: 
+2025-08-13 04:28:31 info: Auction : 
+2025-08-13 04:28:31 info: OfferBk : 
+2025-08-13 04:30:24 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-13 04:30:24 info: Contracts (from blockchain.js): 
+2025-08-13 04:30:24 info: NOVA   : 
+2025-08-13 04:30:24 info: Profiles: 
+2025-08-13 04:30:24 info: Auction : 
+2025-08-13 04:30:24 info: OfferBk : 
+2025-08-13 04:35:31 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-13 04:35:31 info: Contracts (from blockchain.js): 
+2025-08-13 04:35:31 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-13 04:35:31 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-13 04:35:31 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-13 04:35:31 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-13 21:43:45 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-13 21:43:45 info: Contracts (from blockchain.js): 
+2025-08-13 21:43:45 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-13 21:43:45 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-13 21:43:45 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-13 21:43:45 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-13 22:41:38 info: Created custodial wallet: 0x9c1847673C50dBdE438194213d728F896565abb0 
+2025-08-13 22:44:35 info: Created custodial wallet: 0xcA41f9604215C5aa300a6cB33AB81DeCd00efaf2 
+2025-08-13 22:47:58 info: Created custodial wallet: 0xed044643737E516C5bC8907EaF6f8Fb2aC7ca51D 
+2025-08-13 22:49:27 info: Created custodial wallet: 0x3510da66Ec57959551A68DBF04a52DEa734F517e 
+2025-08-13 23:03:37 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-13 23:03:37 info: Contracts (from blockchain.js): 
+2025-08-13 23:03:37 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-13 23:03:37 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-13 23:03:37 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-13 23:03:37 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 

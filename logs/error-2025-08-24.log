@@ -1,0 +1,105 @@
+2025-08-24 00:25:57 error: Error fetching NFTs for user 52: db.getNftsByOwnerId is not a function 
+TypeError: db.getNftsByOwnerId is not a function
+    at M:\Desktop\CamAppServer\src\routes\userRoutes.js:84:31
+    at Layer.handle [as handle_request] (M:\Desktop\CamAppServer\node_modules\express\lib\router\layer.js:95:5)
+    at next (M:\Desktop\CamAppServer\node_modules\express\lib\router\route.js:149:13)
+    at M:\Desktop\CamAppServer\src\middleware\authenticateToken.js:49:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-08-24 00:25:57 error: Error fetching NFTs for user 52: db.getNftsByOwnerId is not a function 
+TypeError: db.getNftsByOwnerId is not a function
+    at M:\Desktop\CamAppServer\src\routes\userRoutes.js:84:31
+    at Layer.handle [as handle_request] (M:\Desktop\CamAppServer\node_modules\express\lib\router\layer.js:95:5)
+    at next (M:\Desktop\CamAppServer\node_modules\express\lib\router\route.js:149:13)
+    at M:\Desktop\CamAppServer\src\middleware\authenticateToken.js:49:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-08-24 01:26:43 error: Error in getNftsByOwnerId for owner 52: 
+2025-08-24 01:26:43 error: Error fetching NFTs for user 52: operator does not exist: character varying = numeric 
+error: operator does not exist: character varying = numeric
+    at M:\Desktop\CamAppServer\node_modules\pg\lib\client.js:545:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.getNftsByOwnerId (M:\Desktop\CamAppServer\src\services\db.js:224:24)
+    at async M:\Desktop\CamAppServer\src\routes\userRoutes.js:84:22
+2025-08-24 17:08:05 error: Error in getNftsByOwnerId for owner 47: 
+2025-08-24 17:08:05 error: Error fetching NFTs for user 47: operator does not exist: character varying = numeric 
+error: operator does not exist: character varying = numeric
+    at M:\Desktop\CamAppServer\node_modules\pg\lib\client.js:545:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.getNftsByOwnerId (M:\Desktop\CamAppServer\src\services\db.js:224:24)
+    at async M:\Desktop\CamAppServer\src\routes\userRoutes.js:84:22
+2025-08-24 17:08:05 error: Error in getNftsByOwnerId for owner 47: 
+2025-08-24 17:08:05 error: Error fetching NFTs for user 47: operator does not exist: character varying = numeric 
+error: operator does not exist: character varying = numeric
+    at M:\Desktop\CamAppServer\node_modules\pg\lib\client.js:545:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.getNftsByOwnerId (M:\Desktop\CamAppServer\src\services\db.js:224:24)
+    at async M:\Desktop\CamAppServer\src\routes\userRoutes.js:84:22
+2025-08-24 17:08:08 error: Error in getNftsByOwnerId for owner 47: 
+2025-08-24 17:08:08 error: Error fetching NFTs for user 47: operator does not exist: character varying = numeric 
+error: operator does not exist: character varying = numeric
+    at M:\Desktop\CamAppServer\node_modules\pg\lib\client.js:545:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.getNftsByOwnerId (M:\Desktop\CamAppServer\src\services\db.js:224:24)
+    at async M:\Desktop\CamAppServer\src\routes\userRoutes.js:84:22
+2025-08-24 17:08:08 error: Error in getNftsByOwnerId for owner 47: 
+2025-08-24 17:08:08 error: Error fetching NFTs for user 47: operator does not exist: character varying = numeric 
+error: operator does not exist: character varying = numeric
+    at M:\Desktop\CamAppServer\node_modules\pg\lib\client.js:545:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.getNftsByOwnerId (M:\Desktop\CamAppServer\src\services\db.js:224:24)
+    at async M:\Desktop\CamAppServer\src\routes\userRoutes.js:84:22
+2025-08-24 17:14:27 error: Error in getNftsByOwnerId for owner 47: 
+2025-08-24 17:14:27 error: Error fetching NFTs for user 47: operator does not exist: character varying = numeric 
+error: operator does not exist: character varying = numeric
+    at M:\Desktop\CamAppServer\node_modules\pg\lib\client.js:545:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.getNftsByOwnerId (M:\Desktop\CamAppServer\src\services\db.js:224:24)
+    at async M:\Desktop\CamAppServer\src\routes\userRoutes.js:84:22
+2025-08-24 17:14:27 error: Error in getNftsByOwnerId for owner 47: 
+2025-08-24 17:14:27 error: Error fetching NFTs for user 47: operator does not exist: character varying = numeric 
+error: operator does not exist: character varying = numeric
+    at M:\Desktop\CamAppServer\node_modules\pg\lib\client.js:545:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.getNftsByOwnerId (M:\Desktop\CamAppServer\src\services\db.js:224:24)
+    at async M:\Desktop\CamAppServer\src\routes\userRoutes.js:84:22
+2025-08-24 17:26:41 error: Error in getNftsByOwnerId for owner 47: 
+2025-08-24 17:26:41 error: Error fetching NFTs for user 47: operator does not exist: character varying = numeric 
+error: operator does not exist: character varying = numeric
+    at M:\Desktop\CamAppServer\node_modules\pg\lib\client.js:545:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.getNftsByOwnerId (M:\Desktop\CamAppServer\src\services\db.js:224:24)
+    at async M:\Desktop\CamAppServer\src\routes\userRoutes.js:84:22
+2025-08-24 17:26:41 error: Error in getNftsByOwnerId for owner 47: 
+2025-08-24 17:26:41 error: Error fetching NFTs for user 47: operator does not exist: character varying = numeric 
+error: operator does not exist: character varying = numeric
+    at M:\Desktop\CamAppServer\node_modules\pg\lib\client.js:545:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.getNftsByOwnerId (M:\Desktop\CamAppServer\src\services\db.js:224:24)
+    at async M:\Desktop\CamAppServer\src\routes\userRoutes.js:84:22
+2025-08-24 17:46:29 error: Database error in getNftsByOwnerId for owner 47: 
+2025-08-24 17:46:29 error: Error fetching NFTs for user 47: column "metadata_url" does not exist 
+error: column "metadata_url" does not exist
+    at M:\Desktop\CamAppServer\node_modules\pg\lib\client.js:545:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.getNftsByOwnerId (M:\Desktop\CamAppServer\src\services\db.js:229:24)
+    at async M:\Desktop\CamAppServer\src\routes\userRoutes.js:84:22
+2025-08-24 17:46:29 error: Database error in getNftsByOwnerId for owner 47: 
+2025-08-24 17:46:29 error: Error fetching NFTs for user 47: column "metadata_url" does not exist 
+error: column "metadata_url" does not exist
+    at M:\Desktop\CamAppServer\node_modules\pg\lib\client.js:545:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.getNftsByOwnerId (M:\Desktop\CamAppServer\src\services\db.js:229:24)
+    at async M:\Desktop\CamAppServer\src\routes\userRoutes.js:84:22
+2025-08-24 17:48:24 error: Database error in getNftsByOwnerId for owner 47: 
+2025-08-24 17:48:24 error: Error fetching NFTs for user 47: column "metadata_url" does not exist 
+error: column "metadata_url" does not exist
+    at M:\Desktop\CamAppServer\node_modules\pg\lib\client.js:545:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.getNftsByOwnerId (M:\Desktop\CamAppServer\src\services\db.js:229:24)
+    at async M:\Desktop\CamAppServer\src\routes\userRoutes.js:84:22
+2025-08-24 17:48:24 error: Database error in getNftsByOwnerId for owner 47: 
+2025-08-24 17:48:24 error: Error fetching NFTs for user 47: column "metadata_url" does not exist 
+error: column "metadata_url" does not exist
+    at M:\Desktop\CamAppServer\node_modules\pg\lib\client.js:545:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.getNftsByOwnerId (M:\Desktop\CamAppServer\src\services\db.js:229:24)
+    at async M:\Desktop\CamAppServer\src\routes\userRoutes.js:84:22

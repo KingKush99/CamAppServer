@@ -1,0 +1,161 @@
+2025-08-14 01:09:18 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-14 01:09:18 info: Contracts (from blockchain.js): 
+2025-08-14 01:09:18 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-14 01:09:18 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-14 01:09:18 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-14 01:09:18 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-14 01:34:56 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-14 01:34:56 info: Contracts (from blockchain.js): 
+2025-08-14 01:34:56 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-14 01:34:56 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-14 01:34:56 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-14 01:34:56 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-14 01:35:07 info: Admin funding user 0xed044643737E516C5bC8907EaF6f8Fb2aC7ca51D with 0.25 POL for NFT mint gas. 
+2025-08-14 01:38:51 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-14 01:38:51 info: Contracts (from blockchain.js): 
+2025-08-14 01:38:51 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-14 01:38:51 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-14 01:38:51 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-14 01:38:51 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-14 01:39:11 info: Admin funding user 0xed044643737E516C5bC8907EaF6f8Fb2aC7ca51D with 0.25 POL for NFT mint gas. 
+2025-08-14 01:49:28 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-14 01:49:28 info: Contracts (from blockchain.js): 
+2025-08-14 01:49:28 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-14 01:49:28 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-14 01:49:28 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-14 01:49:28 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-14 01:53:24 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-14 01:53:24 info: Contracts (from blockchain.js): 
+2025-08-14 01:53:24 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-14 01:53:24 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-14 01:53:24 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-14 01:53:24 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-14 01:53:28 info: DEBUG: User's custodial wallet (0xed044643737E516C5bC8907EaF6f8Fb2aC7ca51D) current MATIC balance: 1.1 POL 
+2025-08-14 01:53:28 info: DEBUG: Minimum required MATIC for mint: 0.3 POL 
+2025-08-14 01:53:28 info: DEBUG: User's wallet has sufficient funds (1.1 POL). No funding needed. 
+2025-08-14 01:57:01 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-14 01:57:01 info: Contracts (from blockchain.js): 
+2025-08-14 01:57:01 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-14 01:57:01 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-14 01:57:01 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-14 01:57:01 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-14 01:57:04 info: DEBUG: User's custodial wallet (0xed044643737E516C5bC8907EaF6f8Fb2aC7ca51D) current MATIC balance: 1.1 POL 
+2025-08-14 01:57:04 info: DEBUG: Minimum required MATIC for mint: 0.3 POL 
+2025-08-14 01:57:04 info: DEBUG: User's wallet has sufficient funds (1.1 POL). No funding needed. 
+2025-08-14 01:57:36 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-14 01:57:36 info: Contracts (from blockchain.js): 
+2025-08-14 01:57:36 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-14 01:57:36 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-14 01:57:36 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-14 01:57:36 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-14 01:57:40 info: DEBUG: User's custodial wallet (0xed044643737E516C5bC8907EaF6f8Fb2aC7ca51D) current MATIC balance: 1.1 POL 
+2025-08-14 01:57:40 info: DEBUG: Minimum required MATIC for mint: 0.3 POL 
+2025-08-14 01:57:40 info: DEBUG: User's wallet has sufficient funds (1.1 POL). No funding needed. 
+2025-08-14 02:09:00 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-14 02:09:00 info: Contracts (from blockchain.js): 
+2025-08-14 02:09:00 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-14 02:09:00 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-14 02:09:00 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-14 02:09:00 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-14 02:09:04 info: DEBUG: User's custodial wallet (0xed044643737E516C5bC8907EaF6f8Fb2aC7ca51D) current MATIC balance: 1.1 POL 
+2025-08-14 02:09:04 info: DEBUG: Minimum required MATIC for mint: 5.0 POL 
+2025-08-14 02:09:04 info: DEBUG: Funding condition met. User's wallet needs funding. Admin wallet address: 0x7c00e73d0c8cD8e036BE4b128d9a2454f3aaeD50 
+2025-08-14 02:09:04 info: Admin funding user 0xed044643737E516C5bC8907EaF6f8Fb2aC7ca51D with 4.0 POL for NFT mint gas. 
+2025-08-14 02:09:05 error: ERROR: Admin funding transaction failed! Check adminWallet MATIC balance. Error: insufficient funds for intrinsic transaction cost [ See: https://links.ethers.org/v5-errors-INSUFFICIENT_FUNDS ] (error={"reason":"processing response error","code":"SERVER_ERROR","body":"{\"jsonrpc\":\"2.0\",\"id\":54,\"error\":{\"code\":-32000,\"message\":\"INTERNAL_ERROR: insufficient funds\"}}\n","error":{"code":-32000},"requestBody":"{\"method\":\"eth_sendRawTransaction\",\"params\":[\"0x02f881830138828203218901a055690d9db80000890340aad21b3b70000082520894ed044643737e516c5bc8907eaf6f8fb2ac7ca51d883782dace9d90000080c001a0786c1bd1aceee821f2b14b50fbc8576824dbe152e7a485d6ad00cdfa397b58e1a0151f4473a88f84ab826910b51a52615f720b3325c960b61ee725a8412af4f64f\"],\"id\":54,\"jsonrpc\":\"2.0\"}","requestMethod":"POST","url":"https://polygon-amoy.g.alchemy.com/v2/yPiIn2bNK4VLMRocxRktN"}, method="sendTransaction", transaction="0x02f881830138828203218901a055690d9db80000890340aad21b3b70000082520894ed044643737e516c5bc8907eaf6f8fb2ac7ca51d883782dace9d90000080c001a0786c1bd1aceee821f2b14b50fbc8576824dbe152e7a485d6ad00cdfa397b58e1a0151f4473a88f84ab826910b51a52615f720b3325c960b61ee725a8412af4f64f", code=INSUFFICIENT_FUNDS, version=providers/5.8.0) 
+2025-08-14 13:30:07 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-14 13:30:07 info: Contracts (from blockchain.js): 
+2025-08-14 13:30:07 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-14 13:30:07 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-14 13:30:07 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-14 13:30:07 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-14 13:30:17 info: DEBUG: User's custodial wallet (0xed044643737E516C5bC8907EaF6f8Fb2aC7ca51D) current MATIC balance: 1.1 POL 
+2025-08-14 13:30:17 info: DEBUG: Minimum required MATIC for mint: 5.0 POL 
+2025-08-14 13:30:17 info: DEBUG: Funding condition met. User's wallet needs funding. Admin wallet address: 0x7c00e73d0c8cD8e036BE4b128d9a2454f3aaeD50 
+2025-08-14 13:30:17 info: Admin funding user 0xed044643737E516C5bC8907EaF6f8Fb2aC7ca51D with 4.0 POL for NFT mint gas. 
+2025-08-14 13:30:18 error: ERROR: Admin funding transaction failed! Check adminWallet MATIC balance. Error: insufficient funds for intrinsic transaction cost [ See: https://links.ethers.org/v5-errors-INSUFFICIENT_FUNDS ] (error={"reason":"processing response error","code":"SERVER_ERROR","body":"{\"jsonrpc\":\"2.0\",\"id\":54,\"error\":{\"code\":-32000,\"message\":\"INTERNAL_ERROR: insufficient funds\"}}\n","error":{"code":-32000},"requestBody":"{\"method\":\"eth_sendRawTransaction\",\"params\":[\"0x02f881830138828203218901a055690d9db80000890340aad21b3b70000082520894ed044643737e516c5bc8907eaf6f8fb2ac7ca51d883782dace9d90000080c001a0786c1bd1aceee821f2b14b50fbc8576824dbe152e7a485d6ad00cdfa397b58e1a0151f4473a88f84ab826910b51a52615f720b3325c960b61ee725a8412af4f64f\"],\"id\":54,\"jsonrpc\":\"2.0\"}","requestMethod":"POST","url":"https://polygon-amoy.g.alchemy.com/v2/yPiIn2bNK4VLMRocxRktN"}, method="sendTransaction", transaction="0x02f881830138828203218901a055690d9db80000890340aad21b3b70000082520894ed044643737e516c5bc8907eaf6f8fb2ac7ca51d883782dace9d90000080c001a0786c1bd1aceee821f2b14b50fbc8576824dbe152e7a485d6ad00cdfa397b58e1a0151f4473a88f84ab826910b51a52615f720b3325c960b61ee725a8412af4f64f", code=INSUFFICIENT_FUNDS, version=providers/5.8.0) 
+2025-08-14 13:32:13 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-14 13:32:13 info: Contracts (from blockchain.js): 
+2025-08-14 13:32:13 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-14 13:32:13 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-14 13:32:13 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-14 13:32:13 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-14 13:32:18 info: DEBUG: User's custodial wallet (0xed044643737E516C5bC8907EaF6f8Fb2aC7ca51D) current MATIC balance: 1.1 POL 
+2025-08-14 13:32:18 info: DEBUG: Minimum required MATIC for mint: 5.0 POL 
+2025-08-14 13:32:18 info: DEBUG: Funding condition met. User's wallet needs funding. Admin wallet address: 0x7c00e73d0c8cD8e036BE4b128d9a2454f3aaeD50 
+2025-08-14 13:32:19 info: Admin funding user 0xed044643737E516C5bC8907EaF6f8Fb2aC7ca51D with 4.0 POL for NFT mint gas. 
+2025-08-14 13:32:20 error: ERROR: Admin funding transaction failed! Check adminWallet MATIC balance. Error: processing response error (body="{\"jsonrpc\":\"2.0\",\"id\":54,\"error\":{\"code\":-32000,\"message\":\"tx fee (1260000.00 ether) exceeds the configured cap (1.00 ether)\"}}\n", error={"code":-32000}, requestBody="{\"method\":\"eth_sendRawTransaction\",\"params\":[\"0x02f881830138828203218901a055690d9db80000890340aad21b3b70000082520894ed044643737e516c5bc8907eaf6f8fb2ac7ca51d883782dace9d90000080c001a0786c1bd1aceee821f2b14b50fbc8576824dbe152e7a485d6ad00cdfa397b58e1a0151f4473a88f84ab826910b51a52615f720b3325c960b61ee725a8412af4f64f\"],\"id\":54,\"jsonrpc\":\"2.0\"}", requestMethod="POST", url="https://rpc-amoy.polygon.technology/", code=SERVER_ERROR, version=web/5.8.0) 
+2025-08-14 13:56:52 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-14 13:56:52 info: Contracts (from blockchain.js): 
+2025-08-14 13:56:52 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-14 13:56:52 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-14 13:56:52 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-14 13:56:52 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-14 13:56:56 info: DEBUG: User's custodial wallet (0xed044643737E516C5bC8907EaF6f8Fb2aC7ca51D) current MATIC balance: 1.1 POL 
+2025-08-14 13:56:56 info: DEBUG: Minimum required MATIC for mint: 5.0 POL 
+2025-08-14 13:56:56 info: DEBUG: Funding condition met. User's wallet needs funding. Admin wallet address: 0x7c00e73d0c8cD8e036BE4b128d9a2454f3aaeD50 
+2025-08-14 13:56:56 info: Admin funding user 0xed044643737E516C5bC8907EaF6f8Fb2aC7ca51D with 4.0 POL for NFT mint gas. 
+2025-08-14 13:56:56 info: DEBUG: Using capped gas options for funding transaction: maxPriorityFeePerGas=45.0 Gwei, maxFeePerGas=45.0 Gwei 
+2025-08-14 13:56:57 info: Funding transaction 0xfdef4f4491779e0776441704f0fc48eef7cfb177fbd3d8896a5ee41d453b02d8 confirmed. 
+2025-08-14 14:01:18 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-14 14:01:18 info: Contracts (from blockchain.js): 
+2025-08-14 14:01:18 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-14 14:01:18 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-14 14:01:18 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-14 14:01:18 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-14 14:02:26 info: DEBUG: User's custodial wallet (0xed044643737E516C5bC8907EaF6f8Fb2aC7ca51D) current MATIC balance: 5.1 POL 
+2025-08-14 14:02:26 info: DEBUG: Minimum required MATIC for mint: 5.0 POL 
+2025-08-14 14:02:26 info: DEBUG: User's wallet has sufficient funds (5.1 POL). No funding needed. 
+2025-08-14 14:02:26 info: DEBUG: Attempting createProfile transaction with gasLimit=1000000 and capped gasPrice. 
+2025-08-14 14:02:26 info: DEBUG: Capped gas options for createProfile: maxPriorityFeePerGas=0.9 Gwei, maxFeePerGas=0.9 Gwei 
+2025-08-14 14:06:20 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-14 14:06:20 info: Contracts (from blockchain.js): 
+2025-08-14 14:06:20 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-14 14:06:20 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-14 14:06:20 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-14 14:06:20 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-14 14:06:24 info: DEBUG: User's custodial wallet (0xed044643737E516C5bC8907EaF6f8Fb2aC7ca51D) current MATIC balance: 5.1 POL 
+2025-08-14 14:06:24 info: DEBUG: Minimum required MATIC for mint: 5.0 POL 
+2025-08-14 14:06:24 info: DEBUG: User's wallet has sufficient funds (5.1 POL). No funding needed. 
+2025-08-14 14:06:24 info: DEBUG: Attempting createProfile transaction with gasLimit=1000000 and capped gasPrice. 
+2025-08-14 14:06:24 info: DEBUG: Capped gas options for createProfile: maxPriorityFeePerGas=50.0 Gwei, maxFeePerGas=50.0 Gwei 
+2025-08-14 17:35:26 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-14 17:35:26 info: Contracts (from blockchain.js): 
+2025-08-14 17:35:26 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-14 17:35:26 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-14 17:35:26 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-14 17:35:26 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-14 17:35:51 info: DEBUG: Attempting approveProfileForSale transaction with gasLimit=150000 and capped gasPrice. 
+2025-08-14 17:35:51 info: DEBUG: Capped gas options for approveProfileForSale: maxPriorityFeePerGas=5.0 Gwei, maxFeePerGas=5.0 Gwei 
+2025-08-14 17:40:58 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-14 17:40:58 info: Contracts (from blockchain.js): 
+2025-08-14 17:40:58 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-14 17:40:58 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-14 17:40:58 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-14 17:40:58 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-14 17:41:00 info: DEBUG: Attempting approveProfileForSale transaction with gasLimit=150000 and capped gasPrice. 
+2025-08-14 17:41:00 info: DEBUG: Capped gas options for approveProfileForSale: maxPriorityFeePerGas=30.0 Gwei, maxFeePerGas=50.0 Gwei 
+2025-08-14 22:03:54 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-14 22:03:54 info: Contracts (from blockchain.js): 
+2025-08-14 22:03:54 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-14 22:03:54 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-14 22:03:54 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-14 22:03:54 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-14 23:05:55 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-14 23:05:55 info: Contracts (from blockchain.js): 
+2025-08-14 23:05:55 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-14 23:05:55 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-14 23:05:55 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-14 23:05:55 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-14 23:31:03 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-14 23:31:03 info: Contracts (from blockchain.js): 
+2025-08-14 23:31:03 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-14 23:31:03 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-14 23:31:03 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-14 23:31:03 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
+2025-08-14 23:31:25 info: Created custodial wallet: 0x73CE026d9E16ac8d0583A043f9e46D8e34112949 
+2025-08-14 23:41:57 info: blockchain.js: Successfully loaded contract addresses from: M:\Desktop\CamAppServer\config\contractAddresses.json 
+2025-08-14 23:41:57 info: Contracts (from blockchain.js): 
+2025-08-14 23:41:57 info: NOVA   : 0x49fc118e0c9931f8b287292b2e61b571651f01ec 
+2025-08-14 23:41:57 info: Profiles: 0x12f4d09be9712C98Fb720dfa001BFb2a793C4DEF 
+2025-08-14 23:41:57 info: Auction : 0xf471af2aFF654A07CD9f55B6cfa22dD019FbaFEf 
+2025-08-14 23:41:57 info: OfferBk : 0x21C5AA053529A8bB2CF78D8aBcaE2b29e6b43fa7 
